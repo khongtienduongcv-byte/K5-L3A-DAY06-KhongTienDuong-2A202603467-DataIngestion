@@ -1,0 +1,247 @@
+{
+  "source_id": "fifty_famous_people",
+  "title": "Fifty Famous People: A Book of Short Stories",
+  "author": "James Baldwin",
+  "source_path_or_url": "https://www.gutenberg.org/ebooks/6168",
+  "license_or_permission": "Project Gutenberg License (public domain)",
+  "accessed_at": "2026-11-13T12:09:42.293362+00:00",
+  "total_units": 47,
+  "unit_rule": "Moi chuong sach duoc tinh lam mot don vi ngoai truc (page/truy vet). Chua gom trang bich, muc luoc, trang trong va trang tai lieu tham chieu.",
+  "pages": [
+    {
+      "page_id": "ch_PREFATORY_NOTE",
+      "title": "PREFATORY NOTE",
+      "chars": 844
+    },
+    {
+      "page_id": "ch_SAVING_THE_BIRDS",
+      "title": "SAVING THE BIRDS",
+      "chars": 3249
+    },
+    {
+      "page_id": "ch_ANOTHER_BIRD_STORY",
+      "title": "ANOTHER BIRD STORY",
+      "chars": 1741
+    },
+    {
+      "page_id": "ch_SPEAKING_A_PIECE",
+      "title": "SPEAKING A PIECE",
+      "chars": 3373
+    },
+    {
+      "page_id": "ch_WRITING_A_COMPOSITION",
+      "title": "WRITING A COMPOSITION",
+      "chars": 3313
+    },
+    {
+      "page_id": "ch_THE_WHISTLE",
+      "title": "THE WHISTLE",
+      "chars": 2838
+    },
+    {
+      "page_id": "ch_THE_ETTRICK_SHEPHERD",
+      "title": "THE ETTRICK SHEPHERD",
+      "chars": 3385
+    },
+    {
+      "page_id": "ch_A_BOY'S_SONG",
+      "title": "A BOY'S SONG",
+      "chars": 970
+    },
+    {
+      "page_id": "ch_THE_CALIPH_AND_THE_POET",
+      "title": "THE CALIPH AND THE POET",
+      "chars": 5260
+    },
+    {
+      "page_id": "ch_A_LESSON_IN_HUMILITY",
+      "title": "A LESSON IN HUMILITY",
+      "chars": 1721
+    },
+    {
+      "page_id": "ch_THE_MIDNIGHT_RIDE",
+      "title": "THE MIDNIGHT RIDE",
+      "chars": 5202
+    },
+    {
+      "page_id": "ch_THE_BOY_AND_THE_WOLF",
+      "title": "THE BOY AND THE WOLF",
+      "chars": 4243
+    },
+    {
+      "page_id": "ch_ANOTHER_WOLF_STORY",
+      "title": "ANOTHER WOLF STORY",
+      "chars": 3867
+    },
+    {
+      "page_id": "ch_THE_HORSESHOE_NAILS",
+      "title": "THE HORSESHOE NAILS",
+      "chars": 2536
+    },
+    {
+      "page_id": "ch_THE_LANDLORD'S_MISTAKE",
+      "title": "THE LANDLORD'S MISTAKE",
+      "chars": 3265
+    },
+    {
+      "page_id": "ch_A_LESSON_IN_MANNERS",
+      "title": "A LESSON IN MANNERS",
+      "chars": 2202
+    },
+    {
+      "page_id": "ch_GOING_TO_SEA",
+      "title": "GOING TO SEA",
+      "chars": 2168
+    },
+    {
+      "page_id": "ch_THE_SHEPHERD-BOY_PAINTER",
+      "title": "THE SHEPHERD-BOY PAINTER",
+      "chars": 2904
+    },
+    {
+      "page_id": "ch_TWO_GREAT_PAINTERS",
+      "title": "TWO GREAT PAINTERS",
+      "chars": 1433
+    },
+    {
+      "page_id": "ch_THE_KING_AND_THE_BEES",
+      "title": "THE KING AND THE BEES",
+      "chars": 2466
+    },
+    {
+      "page_id": "ch_OUR_FIRST_GREAT_PAINTER",
+      "title": "OUR FIRST GREAT PAINTER",
+      "chars": 3681
+    },
+    {
+      "page_id": "ch_THE_YOUNG_SCOUT",
+      "title": "THE YOUNG SCOUT",
+      "chars": 2470
+    },
+    {
+      "page_id": "ch_THE_LAD_WHO_RODE_SIDESADDLE",
+      "title": "THE LAD WHO RODE SIDESADDLE",
+      "chars": 2586
+    },
+    {
+      "page_id": "ch_THE_WHISPERERS",
+      "title": "THE WHISPERERS",
+      "chars": 4470
+    },
+    {
+      "page_id": "ch_HOW_A_PRINCE_LEARNED_TO_READ",
+      "title": "HOW A PRINCE LEARNED TO READ",
+      "chars": 4750
+    },
+    {
+      "page_id": "ch_THE_YOUNG_CUPBEARER",
+      "title": "THE YOUNG CUPBEARER",
+      "chars": 2872
+    },
+    {
+      "page_id": "ch_THE_SONS_OF_THE_CALIPH",
+      "title": "THE SONS OF THE CALIPH",
+      "chars": 1749
+    },
+    {
+      "page_id": "ch_THE_BOY_AND_THE_ROBBERS",
+      "title": "THE BOY AND THE ROBBERS",
+      "chars": 2837
+    },
+    {
+      "page_id": "ch_A_LESSON_IN_JUSTICE",
+      "title": "A LESSON IN JUSTICE",
+      "chars": 3205
+    },
+    {
+      "page_id": "ch_THE_GENERAL_AND_THE_FOX",
+      "title": "THE GENERAL AND THE FOX",
+      "chars": 2723
+    },
+    {
+      "page_id": "ch_THE_BOMB",
+      "title": "THE BOMB",
+      "chars": 848
+    },
+    {
+      "page_id": "ch_A_STORY_OF_OLD_ROME",
+      "title": "A STORY OF OLD ROME",
+      "chars": 4579
+    },
+    {
+      "page_id": "ch_SAVED_BY_A_DOLPHIN",
+      "title": "SAVED BY A DOLPHIN",
+      "chars": 6632
+    },
+    {
+      "page_id": "ch_A_CLEVER_SLAVE",
+      "title": "A CLEVER SLAVE",
+      "chars": 2672
+    },
+    {
+      "page_id": "ch_ONE_OF_AESOP'S_FABLES",
+      "title": "ONE OF AESOP'S FABLES",
+      "chars": 647
+    },
+    {
+      "page_id": "ch_THE_DARK_DAY",
+      "title": "THE DARK DAY",
+      "chars": 2224
+    },
+    {
+      "page_id": "ch_THE_SURLY_GUEST",
+      "title": "THE SURLY GUEST",
+      "chars": 1969
+    },
+    {
+      "page_id": "ch_THE_STORY_OF_A_GREAT_STORY",
+      "title": "THE STORY OF A GREAT STORY",
+      "chars": 5890
+    },
+    {
+      "page_id": "ch_THE_KING_AND_THE_PAGE",
+      "title": "THE KING AND THE PAGE",
+      "chars": 2470
+    },
+    {
+      "page_id": "ch_THE_HUNTED_KING",
+      "title": "THE HUNTED KING",
+      "chars": 4810
+    },
+    {
+      "page_id": "ch_WHY_HE_CARRIED_THE_TURKEY",
+      "title": "WHY HE CARRIED THE TURKEY",
+      "chars": 2771
+    },
+    {
+      "page_id": "ch_THE_PADDLE-WHEEL_BOAT",
+      "title": "THE PADDLE-WHEEL BOAT",
+      "chars": 3055
+    },
+    {
+      "page_id": "ch_THE_CALIPH_AND_THE_GARDENER",
+      "title": "THE CALIPH AND THE GARDENER",
+      "chars": 5719
+    },
+    {
+      "page_id": "ch_THE_COWHERD_WHO_BECAME_A_POET",
+      "title": "THE COWHERD WHO BECAME A POET",
+      "chars": 5483
+    },
+    {
+      "page_id": "ch_THE_LOVER_OF_MEN",
+      "title": "THE LOVER OF MEN",
+      "chars": 4377
+    },
+    {
+      "page_id": "ch_THE_CHARCOAL_MAN_AND_THE_KING",
+      "title": "THE CHARCOAL MAN AND THE KING",
+      "chars": 10652
+    },
+    {
+      "page_id": "ch_THE_GOLDEN_TRIPOD",
+      "title": "THE GOLDEN TRIPOD",
+      "chars": 4428
+    }
+  ]
+}

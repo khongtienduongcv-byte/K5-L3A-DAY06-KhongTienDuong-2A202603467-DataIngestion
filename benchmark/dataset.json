@@ -1,0 +1,243 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Vì sao Aesop chọn bó hành lý lớn nhất khi chủ nhân yêu cầu các nô lệ lựa chọn?",
+    "expected_answer": "Vì anh biết rằng tất cả các bó đều chứa cùng một lượng đồ ăn, nên bó lớn nhất sẽ dễ mang nhất.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "Aesop at once chose the largest one. The other slaves laughed and said he was foolish.",
+    "filter": {
+      "chapter": "A CLEVER SLAVE"
+    }
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Những con chuột đã phản ứng như thế nào khi con chuột già đề xuất đeo chuông vào cổ con mèo?",
+    "expected_answer": "Tất cả đều phản đối vì không con chuột nào dám thực hiện việc đeo chuông vào cổ mèo.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"Not I! not I!\" said all the Mice together. And they scampered away to their holes.",
+    "filter": {
+      "chapter": "ONE OF AESOP'S FABLES"
+    }
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Abraham Davenport đã làm gì để các nhà lập pháp tiếp tục công việc khi bầu trời đột nhiên tối đen?",
+    "expected_answer": "Ông yêu cầu thắp nến và khẳng định rằng mình phải tiếp tục thực hiện nhiệm vụ tại vị trí của mình khi còn sống.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"But I am sure that it is my duty to stand at my post as long as I live. So, let us go on with the work that is before us. Let the candles be lighted.\"",
+    "filter": {
+      "chapter": "THE DARK DAY"
+    }
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Tại sao John Randolph cuối cùng phải mất nhiều thời gian hơn dự kiến để đến Lynchburg?",
+    "expected_answer": "Vì ông cư xử thô lỗ với chủ quán trọ nên khi cần hỏi đường tại chỗ đường rẽ, ông không nhận được sự giúp đỡ và đã chọn nhầm đường.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "As bad luck would have it, Mr. Randolph took the wrong road. He went far out of his way and lost much time, all on account of his surliness.",
+    "filter": {
+      "chapter": "THE SURLY GUEST"
+    }
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Sự kiện có thật nào đã truyền cảm hứng cho Daniel Defoe viết câu chuyện Robinson Crusoe?",
+    "expected_answer": "Câu chuyện Alexander Selkirk sống một mình trên đảo Juan Fernandez trong bốn năm bốn tháng.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "When Daniel Defoe heard how Selkirk had lived alone on the island of Juan Fernandez, he said to himself: \"Here is something worth telling about.\"",
+    "filter": {
+      "chapter": "THE STORY OF A GREAT STORY"
+    }
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Vì sao vua Frederick quyết định không đánh thức Carl một cách thô bạo khi phát hiện cậu đang ngủ?",
+    "expected_answer": "Vì nhà vua nhìn thấy lá thư của mẹ Carl và hiểu rằng cậu đã phải làm việc rất muộn, đồng thời gửi tiền lương về giúp đỡ gia đình.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "It was a letter from the page's mother: Dearest Carl; You are a good boy to send me all your wages, for now I can pay the rent and buy some warm clothing for your little sister.",
+    "filter": {
+      "chapter": "THE KING AND THE PAGE"
+    }
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Người phụ nữ trong trang trại đã giúp Robert the Bruce như thế nào khi ông đang bị quân địch truy đuổi?",
+    "expected_answer": "Bà cho ông nơi trú ẩn và gọi hai người con trai của mình đến để đi theo, bảo vệ và hỗ trợ nhà vua.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"I have two sons who are gallant and trusty. They shall go with you and serve you.\"",
+    "filter": {
+      "chapter": "THE HUNTED KING"
+    }
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "John Marshall muốn truyền đạt điều gì khi tự mình mang con gà tây đến nhà cho người thanh niên Johnson?",
+    "expected_answer": "Không ai nên cho rằng mình quá cao quý để tự mang những món đồ của chính mình; đồng thời hành động đó cũng thể hiện lòng tốt và sự sẵn lòng giúp đỡ người khác.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"He wished to teach you that no man should feel himself too fine to carry his own packages.\"",
+    "filter": {
+      "chapter": "WHY HE CARRIED THE TURKEY"
+    }
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Robert Fulton và Christopher đã cải tiến chiếc thuyền đánh cá bằng cách nào để không cần dùng sào hoặc mái chèo thông thường?",
+    "expected_answer": "Họ chế tạo hai bánh guồng gắn ở hai bên thuyền, nối với một thanh sắt có thể quay bằng tay quay.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "After a great deal of tinkering and trying, they did succeed in making two paddle wheels. They were very rough and crude, but strong and serviceable.",
+    "filter": {
+      "chapter": "THE PADDLE-WHEEL BOAT"
+    }
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Người làm vườn đã giải thích như thế nào về việc giữ lại mười đồng vàng trong chiếc túi mà ông tìm thấy?",
+    "expected_answer": "Ông đang rất nghèo, gia đình thiếu thức ăn và quần áo nên đã lấy mười đồng để tạm sử dụng. Ông dự định tiết kiệm tiền để hoàn trả số vàng đó.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"I meant only to borrow them. And I put the bag in a safe place, saying that as soon as I could replace the ten pieces, I would return all to my lord Al Mansour.\"",
+    "filter": {
+      "chapter": "THE CALIPH AND THE GARDENER"
+    }
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Bài học mà Benjamin Franklin rút ra sau khi dùng toàn bộ số tiền mẹ cho để mua chiếc còi là gì?",
+    "expected_answer": "Không nên trả giá quá đắt cho một món đồ; cần cân nhắc giá trị thực tế trước khi tiêu tiền.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "The lesson you have learned to-day is never to pay too dear for a whistle. Benjamin Franklin lived to be a very old man, but he never forgot that lesson.",
+    "filter": {
+      "chapter": "THE WHISTLE"
+    }
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Sirrah đã làm gì để bảo vệ đàn cừu trong cơn bão khiến James Hogg tưởng rằng mình đã mất toàn bộ đàn?",
+    "expected_answer": "Sirrah đã tập hợp những con cừu bị phân tán vào một khe núi an toàn và đứng canh giữ chúng cho đến khi những người chăn cừu tìm thấy.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "They looked down, and at the bottom they saw some lambs huddled together among the rocks. And there was Sirrah standing guard over them and looking all around for help.",
+    "filter": {
+      "chapter": "THE ETTRICK SHEPHERD"
+    }
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Paul Revere đã sử dụng tín hiệu đèn như thế nào để biết quân Anh sẽ đi qua con đường nào?",
+    "expected_answer": "Một chiếc đèn báo hiệu quân Anh sẽ đi đường bộ; hai chiếc đèn báo hiệu họ sẽ vượt sông.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"If they are to cross the river, hang two. I will be here, ready. As soon as I see the light, I will mount my horse and ride out to give the alarm.\"",
+    "filter": {
+      "chapter": "THE MIDNIGHT RIDE"
+    }
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Vì sao người thợ rèn đồng ý đóng ít đinh hơn mức cần thiết vào móng ngựa của nhà vua?",
+    "expected_answer": "Vì người hầu thúc giục ông hoàn thành nhanh để nhà vua kịp ra trận. Người thợ rèn cho rằng ba chiếc đinh mỗi móng có thể giữ được móng ngựa và chấp nhận rủi ro đó.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"Three nails in each shoe will hold them on,\" said the smith. \"Yes, I think we may risk it.\" So he quickly finished the shoeing, and the groom hurried to lead the horse to the king.",
+    "filter": {
+      "chapter": "THE HORSESHOE NAILS"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Điều gì khiến George Washington thay đổi quyết định lên tàu đi biển dù trước đó rất háo hức?",
+    "expected_answer": "Khi nhìn thấy mẹ khóc vì không muốn con trai đi xa, George không thể chịu đựng nỗi buồn của mẹ nên quyết định ở nhà.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"Good-by, my dear boy!\" George saw the tears in his mother's eyes. He saw them rolling down her cheeks. He knew that she did not wish him to go. He could not bear to see her grief.",
+    "filter": {
+      "chapter": "GOING TO SEA"
+    }
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Tại sao Elihu Burritt cố tình vi phạm quy định không được nói chuyện trong lớp vào đúng thời điểm sắp tan học?",
+    "expected_answer": "Vì ông muốn nhận hình phạt thay cho Lucy Martin, người đang phải chịu phạt thay cho những học sinh khác dù cô chỉ mắc lỗi nhỏ.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"I did it to save little Lucy,\" said the awkward boy, standing up very straight and brave. \"I could not bear to see her punished.\"",
+    "filter": {
+      "chapter": "THE WHISPERERS"
+    }
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Vì sao Alfred là người duy nhất trong bốn anh em muốn học đọc để có được cuốn sách mà mẹ đưa ra?",
+    "expected_answer": "Vì Alfred thực sự muốn biết câu chuyện trong cuốn sách, trong khi các anh trai thích những món quà khác như cung tên hoặc chim săn mồi và cho rằng học đọc không phù hợp với hoàng tử.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"If I were a priest or a monk,\" said Ethelbald, \"I would learn to read. But I am a prince, and it is foolish for princes to waste their time with such things.\" \"But I should like to know the story which this book tells,\" said Alfred.",
+    "filter": {
+      "chapter": "HOW A PRINCE LEARNED TO READ"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Theo lời dạy của vua Al Mamoun, ba nghĩa vụ mà một người trẻ tuổi không được phép bỏ qua là gì?",
+    "expected_answer": "Phải tôn trọng người cai trị, yêu thương và vâng lời cha mẹ, đồng thời kính trọng người thầy của mình.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"No young man nor boy,\" said he, \"can be so high in rank as to neglect three great duties: he must respect his ruler, he must love and obey his father, and he must honor his teacher.\"",
+    "filter": {
+      "chapter": "THE SONS OF THE CALIPH"
+    }
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Điều gì trong hành động của Otanes khiến thủ lĩnh bọn cướp quyết định trả lại vàng và bảo vệ cậu trên đường đi?",
+    "expected_answer": "Otanes thành thật khai báo vị trí giấu vàng dù biết có thể bị cướp. Cậu cho rằng nói dối là hành động của kẻ hèn nhát, khiến thủ lĩnh cảm phục lòng trung thực và sự dũng cảm của cậu.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"If I had answered your questions differently, I should have told a lie,\" said Otanes; \"and none but cowards tell lies\". The robber chief was struck by this answer.",
+    "filter": {
+      "chapter": "THE BOY AND THE ROBBERS"
+    }
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Tại sao vị vua trong câu chuyện A Lesson in Justice cho rằng đất nước của Alexander không xứng đáng nhận được những phước lành từ thiên nhiên?",
+    "expected_answer": "Vì người dân và nhà vua của Alexander quá bất công, chỉ quan tâm đến quyền lực và lợi ích của mình, trái ngược với sự công bằng và lòng vị tha mà vị vua kia coi trọng.",
+    "gold_source_id": "fifty_famous_people_doc1",
+    "gold_page": null,
+    "evidence_quote": "\"Then,\" said the shah, \"it must be that the sun shines and the rain falls for the sake of these poor beasts; for men so unjust do not deserve such blessings.\"",
+    "filter": {
+      "chapter": "A LESSON IN JUSTICE"
+    }
+  }
+
+]

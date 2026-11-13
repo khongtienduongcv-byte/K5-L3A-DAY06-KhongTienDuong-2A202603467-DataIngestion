@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size,500,50,,,gemini-embedding-001,Fixed-size window nhieu chunk, co the cat giua cau,0.0,0.0,0.0,0.0,Can chay lai de co ket qua thuc
+B,by_paragraph,800,,,gemini-embedding-001,Theo doan van, it chunk hon A,0.0,0.0,0.0,0.0,Can chay lai de co ket qua thuc
+C,by_paragraph,800,,chapter,chapter,gemini-embedding-001,Them metadata chapter de filter, Co the cao hon B voi cau co filter,0.0,0.0,0.0,0.0,Can chay lai de co ket qua thuc

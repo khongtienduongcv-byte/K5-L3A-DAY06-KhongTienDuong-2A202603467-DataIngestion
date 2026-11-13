@@ -1,0 +1,2118 @@
+{
+  "strategy_A": {
+    "summary": {
+      "total": 20,
+      "hit_1_rate": 50.0,
+      "hit_3_rate": 60.0,
+      "hit_1_n": 10,
+      "hit_3_n": 12
+    },
+    "chunk_count": 82,
+    "traces": [
+      {
+        "question_id": "q01",
+        "question": "Vì sao Aesop chọn bó hành lý lớn nhất khi chủ nhân yêu cầu các nô lệ lựa chọn?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "A long time ago there lived a poor slave whose name was Aesop.\n[Footnote: Aesop (_pro_. e'sop).] He was a small man with a large\nhead and long arms. His face was white, but very homely. His large\neyes were bright and snappy.\n\nWhen Aesop was about twenty years old his master lost a great deal of\nmoney and was obliged to sell his slaves. To do this, he had to take\nthem to a large city where there was a slave market.\n\nThe city was far away, and the slaves must walk the whole distance.\nA number of bundles were made up for them to carry. Some of these\nbundles contained the things they would need on the road; some\ncontained clothing; and some contained goods which the master would\nsell in the city.\n\n\"Choose your bundles, boys,\" said the master. \"There is one for each\nof you.\"\n\nAesop at once chose the largest one. The other slaves laughed and said\nhe was foolish. But he threw it upon his shoulders and seemed well\nsatisfied. The next day, the laugh was the other way. For the bundle\nwhich he had chosen had contained the food for the whole party. After\nall had eaten three meals from it, it was very much lighter. And before\nthe end of the journey Aesop had nothing to carry, while the other\nslaves were groaning under their heavy loads.\n\n\"Aesop is a wise fellow,\" said his master. \"The man who buys him must\npay a high price.\"\n\nA very rich man, whose name was Xanthus, [Footnote: Xanthus (_pro_.\nzan'thus).] came to the slave market to buy a servant. As the slaves\nstood before him he asked each one to tell what kind of work he could\ndo. All were eager to be bought by Xanthus because they knew he would\nbe a kind master. So each one boasted of his skill in doing some sort\nof labor. One was a fine gardener; another could take care of horses; a\nthird was a good cook; a fourth could manage a household.\n\n\"And what can you do, Aesop?\" asked Xanthus.\n\n\"Nothing,\" he answered.\n\n\"Nothing? How is that?\"\n\n\"Because, since these other slaves do everything, there is nothing\nleft for me to perform,\" said Aesop.\n\nThis answer pleased the rich man so well that he bought Aesop at once,\nand took him to his home on the island of Samos.\n\nIn Samos the little slave soon became known for his wisdom and courage.\nHe often amused his master and his master's friends by telling droll\nfables about birds and beasts that could talk. They saw that all these\nfables taught some great truth, and they wondered how Aesop could have\nthought of them.\n\nMany other stories are told of this wonderful slave. His master was\nso much pleased with him that he gave him his freedom. Many great men\nwere glad to call him their friend, and even kings asked his advice\nand were amused by his fables.",
+            "score": 0.5640887228228699,
+            "metadata": {
+              "page": 34,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "There was once a famous Greek general whose name was Aristomenes.\n[Footnote: Aristomenes (_pro_. ar is tom'e neez).] He was brave and\nwise; and his countrymen loved him.\n\nOnce, however, in a great battle with the Spartans, his army was beaten\nand he was taken prisoner.\n\nIn those days, people had not learned to be kind to their enemies. In\nwar, they were savage and cruel; for war always makes men so.\n\nThe Spartans hated Aristomenes. He had given them a great deal of\ntrouble, and they wished to destroy him.\n\nOn a mountain near their city, there was a narrow chasm or hole in the\nrocks. It was very deep, and there was no way to climb out of it.\n\nThe Spartans said to one another, \"Let us throw this fellow into the\nrocky chasm. Then we may be sure that he will never trouble us again.\"\n\nSo a party of soldiers led him up into the mountain and placed him on\nthe edge of the yawning hole in the rocks. \"See the place to which we\nsend all our enemies,\" they said. And they threw him in.\n\nNo one knows how he escaped being dashed to pieces. Some of the Greeks\nsaid that an eagle caught him in her beak and carried him unharmed to\nthe bottom. But that is not likely.\n\nI think that he must have fallen upon some bushes and vines that grew\nin some parts of the chasm. At any rate he was not hurt much.\n\nHe groped around in the dim light, but could not find any way of\nescape. The rocky walls surrounded him on every side. There was no\nplace where he could set his foot to climb out.\n\nFor three days he lay in his strange prison. He grew weak from\nhunger and thirst. He expected to die from starvation.\n\nSuddenly he was startled by a noise close by him. Something was moving\namong the rocks at the bottom of the chasm. He watched quietly, and\nsoon saw a large fox coming towards him.\n\nHe lay quite still till the animal was very near. Then he sprang up\nquickly and seized it by the tail.\n\nThe frightened fox scampered away as fast as it could; and Aristomenes\nfollowed, clinging to its tail. It ran into a narrow cleft which he\nhad not seen before, and then through a long, dark passage which was\nbarely large enough for a man's body.\n\nAristomenes held on. At last he saw a ray of light far ahead of him.\nIt was the sunlight streaming in at the entrance to the passage. But\nsoon the way became too narrow for his body to pass through. What\nshould he do? He let go of the fox, and it ran out. Then with great\nlabor he began to widen the passageway. Here the rocks were smaller,\nand he soon loosened them enough to allow him to squeeze through. In\na short time he was free and in the open air.\n\nSome days after this the Spartans heard strange news: \"Aristomenes is\nagain at the head of the Greek army.\" They could not believe it.",
+            "score": 0.6875437410767034,
+            "metadata": {
+              "page": 30,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "In Persia, when Cyrus the Great was king, boys were taught to tell the\ntruth. This was one of their first lessons at home and at school.\n\n\"None but a coward will tell a falsehood,\" said the father of young\nOtanes. [Footnote: Otanes (_pro._ o ta'n ez).]\n\n\"Truth is beautiful. Always love it,\" said his mother.\n\nWhen Otanes was twelve years old, his parents wished to send him to\na distant city to study in a famous school that was there. It would\nbe a long journey and a dangerous one. So it was arranged that the boy\nshould travel with a small company of merchants who were going\nto the same place. \"Good-by, Otanes! Be always brave and truthful,\"\nsaid his father. \"Farewell, my child! Love that which is beautiful.\nDespise that which is base,\" said his mother.\n\nThe little company began its long journey. Some of the men rode on\ncamels, some on horses. They went but slowly, for the sun was hot and\nthe way was rough.\n\nSuddenly, towards evening, a band of robbers swooped down upon them.\nThe merchants were not fighting men. They could do nothing but give\nup all their goods and money.\n\n\"Well, boy, what have you got?\" asked one of the robbers, as he pulled\nOtanes from his horse.\n\n\"Forty pieces of gold\" answered the lad.\n\nThe robber laughed. He had never heard of a boy with so much money as\nthat.\n\n\"That is a good story\" he said. \"Where do you carry your gold?\"\n\n\"It is in my hat, underneath the lining,\" answered Otanes.\n\n\"Oh, well! You can't make me believe that,\" said the robber; and he\nhurried away to rob one of the rich merchants.\n\nSoon another came up and said, \"My boy, do you happen to have any gold\nabout you?\"\n\n\"Yes! Forty pieces, in my hat, said Otanes.\n\n\"You are a brave lad to be joking with robbers\" said the man; and he\nalso hurried on to a more promising field.\n\nAt length the chief of the band called to Otanes and said, \"Young\nfellow, have you anything worth taking?\"\n\nOtanes answered, \"I have already told two of your men that I have forty\npieces of gold in my hat. But they wouldn't believe me.\"\n\n\"Take off your hat,\" said the chief.\n\n[Illustration]\n\nThe boy obeyed. The chief tore out the lining and found the gold hidden\nbeneath it.\n\n\"Why did you tell us where to find it?\" he asked. \"No one would have\nthought that a child like you had gold about him.\"\n\n\"If I had answered your questions differently, I should have told a\nlie,\" said Otanes; \"and none but cowards tell lies\"\n\nThe robber chief was struck by this answer. He thought of the number\nof times that he himself had been a coward. Then he said, \"You are a\nbrave boy, and you may keep your gold. Here it is. Mount your horse,\nand my own men will ride with you and see that you reach the end of\nyour journey in safety.\"\n\nOtanes, in time, became one of the famous men of his country. He was\nthe advisor and friend of two of the kings who succeeded Cyrus.",
+            "score": 0.7112695784328662,
+            "metadata": {
+              "page": 28,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q02",
+        "question": "Những con chuột đã phản ứng như thế nào khi con chuột già đề xuất đeo chuông vào cổ con mèo?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "An old Cat was in a fair way to kill all the Mice in the barn.\n\nOne day the Mice met to talk about the great harm that she was doing\nthem. Each one told of some plan by which to keep out of her way.\n\n\"Do as I say,\" said an old gray Mouse that was thought to be very wise.\n\"Do as I say. Hang a bell to the Cat's neck. Then, when we hear it\nring, we shall know that she is coming, and can scamper out of her\nway.\" \"Good! good!\" said all the other Mice; and one ran to get the\nbell. \"Now which of you will hang this bell on the Cat's neck?\" said\nthe old gray Mouse.\n\n\"Not I! not I!\" said all the Mice together. And they scampered away\nto their holes.",
+            "score": 0.7144981637604946,
+            "metadata": {
+              "page": 35,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "y could not believe it.",
+            "score": 0.864037084143727,
+            "metadata": {
+              "page": 30,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "In France there once lived a famous man who was known as the Marquis\nde Lafayette. [Footnote: Mar'quis de La fa yette'.] When he was a\nlittle boy his mother called him Gilbert.\n\nGilbert de Lafayette's father and grandfather and great-grandfather\nhad all been brave and noble men. He was very proud to think of this,\nand he wished that he might grow up to be like them.\n\nHis home was in the country not far from a great forest. Often, when\nhe was a little lad, he took long walks among the trees with his\nmother.\n\n\"Mother,\" he would say, \"do not be afraid. I am with you, and I will\nnot let anything hurt you.\"\n\nOne day word came that a savage wolf had been seen in the forest. Men\nsaid that it was a very large wolf and that it had killed some of the\nfarmers' sheep.\n\n\"How I should like to meet that wolf,\" said little Gilbert.\n\nHe was only seven years old, but now all his thoughts were about the\nsavage beast that was in the forest.\n\n\"Shall we take a walk this morning?\" asked his mother.\n\n\"Oh, yes!\" said Gilbert. \"Perhaps we may see that wolf among the trees.\nBut don't be afraid.\"\n\nHis mother smiled, for she felt quite sure that there was no danger.\n\nThey did not go far into the woods. The mother sat down in the shade\nof a tree and began to read in a new book which she had bought the day\nbefore. The boy played on the grass near by.\n\nThe sun was warm. The bees were buzzing among the flowers. The small\nbirds were singing softly. Gilbert looked up from his play and saw\nthat his mother was very deeply interested in her book.\n\n\"Now for the wolf!\" he said to himself.\n\nHe walked quickly, but very quietly, down the pathway into the darker\nwoods. He looked eagerly around, but saw only a squirrel frisking among\nthe trees and a rabbit hopping across the road.\n\nSoon he came to a wilder place. There the bushes were very close\ntogether and the pathway came to an end. He pushed the bushes aside\nand went a little farther. How still everything was!\n\nHe could see a green open space just beyond; and then the woods seemed\nto be thicker and darker. \"This is just the place for that wolf,\" he\nthought.\n\nThen, all at once, he heard footsteps. Something was pushing its way\nthrough the bushes. It was coming toward him.\n\n\"It's the wolf, I'm sure! It will not see me till it comes very near.\nThen I will jump out and throw my arms around its neck and choke it\nto death.\"\n\nThe animal was coming nearer. He could hear its footsteps. He could\nhear its heavy breathing. He stood very still and waited.\n\n\"It will try to bite me,\" he thought. \"Perhaps it will scratch me with\nits sharp claws. But I will be brave. I will not cry out. I will choke\nit with my strong arms. Then I will drag it out of the bushes and call\nmamma to come and see it.\"\n\nThe beast was very close to him now. He could see its shadow as he\npeeped out through the clusters of leaves. His breath came fast. He\nplanted his feet firmly and made ready to spring.\n\n\"How proud mamma will be of her brave boy!\"\n\nAh! there was the wolf! He saw",
+            "score": 0.8721679618255824,
+            "metadata": {
+              "page": 12,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q03",
+        "question": "Abraham Davenport đã làm gì để các nhà lập pháp tiếp tục công việc khi bầu trời đột nhiên tối đen?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Listen, and I will tell you of the famous dark day in Connecticut. It\nwas in the month of May, more than a hundred years ago.\n\nThe sun rose bright and fair, and the morning was without a cloud. The\nair was very still. There was not a breath of wind to stir the young\nleaves on the trees.\n\nThen, about the middle of the day, it began to grow dark. The sun was\nhidden. A black cloud seemed to cover the earth.\n\nThe birds flew to their nests. The chickens went to roost. The cows\ncame home from the pasture and stood mooing at the gate. It grew so\ndark that the people could not see their way along the streets.\n\nThen everybody began to feel frightened. \"What is the matter? What is\ngoing to happen?\" each one asked of another. The children cried. The\ndogs howled. The women wept, and some of the men prayed.\n\n\"The end of the world has come!\" cried some; and they ran about in the\ndarkness.\n\n\"This is the last great day!\" cried others; and they knelt down and\nwaited.\n\nIn the old statehouse, the wise men of Connecticut were sitting. They\nwere men who made the laws, and much depended upon their wisdom.\n\n[Illustration]\n\nWhen the darkness came, they too began to be alarmed. The gloom was\nterrible.\n\n\"It is the day of the Lord.\" said one.\n\n\"No use to make laws,\" said another, \"for they will never be needed.\"\n\n\"I move that we adjourn,\" said a third.\n\nThen up from his seat rose Abraham Davenport.\n\nHis voice was clear and strong, and all knew that he, at least, was\nnot afraid.\n\n\"This may be the last great day,\" he said. \"I do not know whether the\nend of the world has come or not. But I am sure that it is my duty to\nstand at my post as long as I live. So, let us go on with the work\nthat is before us. Let the candles be lighted.\"\n\nHis words put courage into every heart. The candles were brought in.\nThen with his strong face aglow in their feeble light, he made a speech\nin favor of a law to help poor fishermen.\n\nAnd as he spoke, the other lawmakers listened in silence till the\ndarkness began to fade and the sky grew bright again.\n\nThe people of Connecticut still remember Abraham Davenport, because\nhe was a wise judge and a brave lawmaker. The poet Whittier has written\na poem about him, which you will like to hear.",
+            "score": 0.6369991821433801,
+            "metadata": {
+              "page": 36,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Listen, my children, and you shall hear\n    Of the midnight ride of Paul Revere.\n                  Longfellow.\n\nThe midnight ride of Paul Revere happened a long time ago when this\ncountry was ruled by the king of England.\n\nThere were thousands of English soldiers in Boston. The king had sent\nthem there to make the people obey his unjust laws. These soldiers\nguarded the streets of the town; they would not let any one go out or\ncome in without their leave.\n\nThe people did not like this. They said, \"We have a right to be free\nmen, but the king treats us as slaves. He makes us pay taxes and gives\nus nothing in return. He sends soldiers among us to take away our\nliberty.\"\n\nThe whole country was stirred up. Brave men left their homes and\nhurried toward Boston.\n\nThey said, \"We do not wish to fight against the king, but we are free\nmen, and he must not send soldiers to oppress us. If the people of\nBoston must fight for their liberty, we will help them.\"\nThese men were not afraid of the king's soldiers. Some of them camped\nin Charlestown, [Footnote: Charles'town.] a village near Boston. From\nthe hills of Charlestown they could watch and see what the king's\nsoldiers were doing.\n\nThey wished to be ready to defend themselves, if the soldiers should\ntry to do them harm. For this reason they had bought some powder and\nstored it at Concord,[Footnote: Concord (_pro_. kong'krd).] nearly\ntwenty miles away.\n\nWhen the king's soldiers heard about this powder, they made up their\nminds to go out and get it for themselves.\n\nAmong the watchers at Charlestown was a brave young man named Paul\nRevere. He was ready to serve his country in any way that he could.\n\nOne day a friend of his who lived in Boston came to see him. He came\nvery quietly and secretly, to escape the soldiers.\n\n\"I have something to tell you,\" he said. \"Some of the king's soldiers\nare going to Concord to get the powder that is there. They are getting\nready to start this very night.\"\n\n\"Indeed!\" said Paul Revere. \"They shall get no powder, if I can help\nit. I will stir up all the farmers between here and Concord, and those\nfellows will have a hot time of it. But you must help me.\"\n\n\"I will do all that I can,\" said his friend.\n\n\"Well, then,\" said Paul Revere, \"you must go back to Boston and watch.\nWatch, and as soon as the soldiers are ready to start, hang a lantern\nin the tower of the old North Church. If they are to cross the river,\nhang two. I will be here, ready. As soon as I see the light, I will\nmount my horse and ride out to give the alarm.\"\n\nAnd so it was done.\n\nWhen night came, Paul Revere was at the riverside with his horse. He\nlooked over toward Boston. He knew where the old North Church stood,\nbut he could not see much in the darkness.\n\nHour after hour he stood and watched. The town seemed very still; but\nnow and then he could hear the beating of a drum or the shouting of\nsome soldier.\n\nThe moon rose, and by its light he could see the dim form of the church\ntower, far away. He heard the clock stri",
+            "score": 0.7572259630265663,
+            "metadata": {
+              "page": 11,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "s to their mother,\" he answered.\n\n\"Well, we always thought you were a hero,\" said Mr. Speed. \"Now we\nknow it.\"\n\nThen all three of them laughed heartily. They thought it so foolish\nthat a strong man should take so much trouble just for some worthless\nyoung birds.\n\n\"Gentlemen,\" said Mr. Lincoln, \"I could not have slept to-night, if\nI had left those helpless little robins to perish in the wet grass.\"\n\nAbraham Lincoln afterwards became very famous as a lawyer and\nstatesman. He was elected president. Next to Washington he was the\ngreatest American.",
+            "score": 0.7599017720842373,
+            "metadata": {
+              "page": 2,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q04",
+        "question": "Tại sao John Randolph cuối cùng phải mất nhiều thời gian hơn dự kiến để đến Lynchburg?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "One day John Randolph, of Roanoke, [Footnote: Ro'a noke.] set out on\nhorseback to ride to a town that was many miles from his home. The\nroad was strange to him, and he traveled very slowly.\n\nWhen night came on he stopped at a pleasant roadside inn and asked for\nlodging. The innkeeper welcomed him kindly. He had often heard of the\ngreat John Randolph, and therefore he did all that he could to\nentertain him well.\n\nA fine supper was prepared, and the innkeeper himself waited upon his\nguest. John Randolph ate in silence. The innkeeper spoke of the\nweather, of the roads, of the crops, of politics. But his surly guest\nsaid scarcely a word.\n\nIn the morning a good breakfast was served, and then Mr. Randolph made\nready to start on his journey. He called for his bill and paid it. His\nhorse was led to the door, and a servant helped him to mount it.\n\nAs he was starting away, the friendly innkeeper said, \"Which way will\nyou travel, Mr. Randolph?\"\n\nMr. Randolph looked at him in no gentle way, and answered, \"Sir!\"\n\n\"I only asked which way you intend to travel,\" said the man.\n\n\"Oh! I have I paid you my bill?\"\n\n\"Yes, sir.\"\n\n\"Do I owe you anything more?\"\n\n\"No, sir.\"\n\n\"Then, I intend to travel the way I wish to go--do you understand?\"\n\nHe turned his horse and rode away. He had not gone farther than to the\nend of the innkeeper's field, when to his surprise he found that the\nroad forked. He did not know whether he should take the right-hand\nfork or the left-hand.\n\nHe paused for a while. There was no signboard to help him. He looked\nback and saw the innkeeper still standing by the door. He called to\nhim:--\"My friend, which of these roads shall I travel to go to\nLynchburg?\"\n\n\"Mr. Randolph,\" answered the innkeeper, \"you have paid your bill and\ndon't owe me a cent. Travel the way you wish to go. Good-by!\"\n\nAs bad luck would have it, Mr. Randolph took the wrong road. He went\nfar out of his way and lost much time, all on account of his surliness.\n\n[Illustration]",
+            "score": 0.5227624016352675,
+            "metadata": {
+              "page": 37,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "When John Adams was president and Thomas Jefferson was vice president\nof the United States, there was not a railroad in all the world.\n\nPeople did not travel very much. There were no broad, smooth highways\nas there are now. The roads were crooked and muddy and rough.\n\nIf a man was obliged to go from one city to another, he often rode on\nhorseback. Instead of a trunk for his clothing, he carried a pair of\nsaddlebags. Instead of sitting at his ease in a parlor car, he went\njolting along through mud and mire, exposed to wind and weather.\n\nOne day some men were sitting by the door of a hotel in Baltimore. As\nthey looked down the street they saw a horseman coming. He was riding\nvery slowly, and both he and his horse were bespattered with mud.\n\n\"There comes old Farmer Mossback,\" said one of the men, laughing. \"He's\njust in from the backwoods.\"\n\n\"He seems to have had a hard time of it,\" said another; \"I wonder where\nhe'll put up for the night.\"\n\n\"Oh, any kind of a place will suit him,\" answered the landlord. \"He's\none of those country fellows who can sleep in the haymow and eat with\nthe horses.\"\n\nThe traveler was soon at the door. He was dressed plainly, and, with\nhis reddish-brown hair and mud-bespattered face, looked like a hard-\nworking countryman just in from the backwoods.\n\n\"Have you a room here for me?\" he asked the landlord.\n\nNow the landlord prided himself upon keeping a first-class hotel, and\nhe feared that his guests would not like the rough-looking traveler.\nSo he answered: \"No, sir. Every room is full. The only place I could\nput you would be in the barn.\"\n\n\"Well, then,\" answered the stranger, \"I will see what they can do for\nme at the Planters' Tavern, round the corner;\" and he rode away.\n\nAbout an hour later, a well-dressed gentleman came into the hotel and\nsaid, \"I wish to see Mr. Jefferson.\"\n\n\"Mr. Jefferson!\" said the landlord.\n\n\"Yes, sir. Thomas Jefferson, the vice president of the United States.\"\n\n\"He isn't here.\"\n\n\"Oh, but he must be. I met him as he rode into town, and he said that\nhe intended to stop at this hotel. He has been here about an hour.\"\n\n\"No, he hasn't. The only man that has been here for lodging to-day was\nan old clodhopper who was so spattered with mud that you couldn't see\nthe color of his coat. I sent him round to the Planters'.\"\n\n\"Did he have reddish-brown hair, and did he ride a gray horse?\"\n\n\"Yes, and he was quite tall.\"\n\n\"That was Mr. Jefferson,\" said the gentleman.\n\n\"Mr. Jefferson!\" cried the landlord. \"Was that the vice president?\nHere, Dick! build a fire in the best room. Put everything in tiptop\norder, Sally. What a dunce I was to turn Mr. Jefferson away! He shall\nhave all the rooms in the house, and the ladies' parlor, too, I'll go\nright round to the Planters' and fetch him back.\"\n\nSo he went to the other hotel, where he found the vice president\nsitting with some friends in the parlor.\n\n\"Mr. Jefferson,\" he said, \"I have come to ask your pardon. You were\nso bespattered with mud that I thought you were some old ",
+            "score": 0.6748185558420853,
+            "metadata": {
+              "page": 15,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "or, too, I'll go\nright round to the Planters' and fetch him back.\"\n\nSo he went to the other hotel, where he found the vice president\nsitting with some friends in the parlor.\n\n\"Mr. Jefferson,\" he said, \"I have come to ask your pardon. You were\nso bespattered with mud that I thought you were some old farmer. If\nyou'll come back to my house, you shall have the best room in it--yes,\nall the rooms if you wish. Won't you come?\"\n\n\"No,\" answered Mr. Jefferson. \"A farmer is as good as any other man;\nand where there's no room for a farmer, there can be no room for me.\"",
+            "score": 0.6968902380861555,
+            "metadata": {
+              "page": 15,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q05",
+        "question": "Sự kiện có thật nào đã truyền cảm hứng cho Daniel Defoe viết câu chuyện Robinson Crusoe?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_3",
+            "text": ". Then he tamed a parrot and some goats.\n\nHe built a house of some sticks and vines. He sowed grain and baked\nbread. He made a boat for himself. He did a great many things. He was\nbusy every day.\n\nAt last a ship happened to pass that way and Robinson was taken on\nboard. He was glad to go back to England to see his home and his\nfriends once more.\n\nThis is the story which Mr. Defoe wrote. Perhaps he would not have\nthought of it, had he not first heard the true story of Alexander\nSelkirk.",
+            "score": 0.44552220841094836,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": " make friends\ninstead of enemies.\"\n\nFor four years and four months he lived alone on the island. Then, to\nhis great joy, a ship came near and anchored in the little harbor.\n\nHe made himself known, and the captain willingly agreed to carry him\nback to his own country. When he reached Scotland everybody was eager\nto hear him tell of his adventures, and he soon found himself famous.\n\nIn England there was then living a man whose name was Daniel Defoe.\n[Footnote: De foe'.] He was a writer of books. He had written many\nstories which people at that time liked to read.\n\nWhen Daniel Defoe heard how Selkirk had lived alone on the island of\nJuan Fernandez, he said to himself: \"Here is something worth telling\nabout. The story of Alexander Selkirk is very pleasing.\"\n\nSo he sat down and wrote a wonderful story, which he called \"The\nAdventures of Robinson Crusoe.\"\n\nEvery boy has heard of Robinson Crusoe. Many boys and indeed many girls\nhave read his story.\n\nWhen only a child he liked to stand by the river and see the ships\nsailing past. He wondered where they had come from and where they were\ngoing. He talked with some of the sailors. They told him about the\nstrange lands they had visited far over the sea. They told him about\nthe wonderful things they had seen there. He was delighted.\n\n\"Oh, I wish I could be a sailor!\" he said.\n\nHe could not think of anything else. He thought how grand it would be\nto sail and sail on the wide blue sea. He thought how pleasant it would\nbe to visit strange countries and see strange peoples.\n\nAs he grew up, his father wished him to learn a trade.\n\n\"No, no, I am going to be a sailor; I am going to see the world\" he\nsaid. His mother said to him: \"A sailor's life is a hard life. There\nare great storms on the sea. Many ships are wrecked and the sailors\nare drowned.\" \"I am not afraid\" said Robinson Crusoe. \"I am going to\nbe a sailor and nothing else.\"\n\nSo, when he was eighteen years old, he ran away from his pleasant home\nand went to sea.\n\nHe soon found that his mother's words were true.\n\nA sailor's life is indeed a hard life. There is no time to play. Every\nday there is much work to be done. Sometimes there is great danger.\n\nRobinson Crusoe sailed first on one ship and then on another. He\nvisited many lands and saw many wonderful things.\n\nOne day there was a great storm. The ship was driven about by the\nwinds; it was wrecked. All the sailors were drowned but Robinson\nCrusoe.\n\nHe swam to an island that was not far away. It was a small island, and\nthere was no one living on it. But there were birds in the woods and\nsome wild goats on the hills.\n\nFor a long time Robinson Crusoe was all alone. He had only a dog and\nsome cats to keep him company. Then he tamed a parrot and some goats.\n\nHe built a house of some sticks and vines. He sowed grain and baked\nbread. He made a boat for himself. He did a great many things. He was\nbusy every day.\n\nAt last a ship happened to pass that way and Robinson was taken on\nboard. He was glad to go back to Eng",
+            "score": 0.45366231199282303,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Two hundred years ago there lived in Scotland a young man whose name\nwas Alexander Selkirk. He was quarrelsome and unruly. He was often\nmaking trouble among his neighbors.\n\nFor this reason many people were glad when he ran away from home and\nwent to sea. \"We hope that he will get what he deserves,\" they said.\n\nHe was big and strong and soon became a fine sailor. But he was still\nheadstrong and ill-tempered; and he was often in trouble with the other\nsailors.\n\nOnce his ship was sailing in the great Pacific Ocean, It was four\nhundred miles from the coast of South America. Then something happened\nwhich Selkirk did not like. He became very disagreeable. He quarreled\nwith the other sailors, and even with the captain.\n\n\"I would rather live alone on a desert island than be a sailor on this\nship,\" he said.\n\n\"Very well,\" answered the captain. \"We shall put you ashore on the\nfirst island that we see.\"\n\n\"Do so,\" said Selkirk. \"You cannot please me better.\"\n\nThe very next day they came in sight of a little green island. There\nwere groves of trees near the shore, and high hills beyond them.\n\n\"What is the name of this island?\" asked Selkirk.\n\n\"Juan Fernandez,\" [Footnote: Juan Fernandez (pro. joo'an fer nan'dsz).]\nsaid the captain.\n\n[Illustration]\n\n\"Set me on shore and leave me there. Give me a few common tools and\nsome food, and I will do well enough,\" said the sailor.\n\n\"It shall be done,\" answered the captain.\n\nSo they filled a small boat with the things that he would need the\nmost--an ax, a hoe, a kettle, and some other things. They also put\nin some bread and meat and other food, enough for several weeks.\n\nThen four of the sailors rowed him to the shore and left him there.\n\nAlexander Selkirk was all alone on the island. He began to see how\nfoolish he had been; he thought how terrible it would be to live there\nwithout one friend, without one person to whom he could speak.\n\nHe called loudly to the sailors and to the captain. \"Oh, do not leave\nme here. Take me back, and I will give you no more trouble.\"\n\nBut they would not listen to him. The ship sailed away and was soon\nlost to sight.\n\nThen Selkirk set to work to make the best of things. He built him a\nlittle hut for shelter at night and in stormy weather. He planted a\nsmall garden. There were pigs and goats on the island, and plenty of\nfish could be caught from the shore. So there was always plenty of\nfood. Sometimes Selkirk saw ships sailing in the distance. He tried\nto make signals to them; he called as loudly as he could; but he was\nneither seen nor heard, and the ships came no nearer.\n\n\"If I ever have the good fortune to escape from this island,\" he said,\n\"I will be kind and obliging to every one. I will try to make friends\ninstead of enemies.\"\n\nFor four years and four months he lived alone on the island. Then, to\nhis great joy, a ship came near and anchored in the little harbor.\n\nHe made himself known, and the captain willingly agreed to carry him\nback to his own country. When he reached Scotland everybo",
+            "score": 0.6691310317214374,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q06",
+        "question": "Vì sao vua Frederick quyết định không đánh thức Carl một cách thô bạo khi phát hiện cậu đang ngủ?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Many years ago there was a king of Prussia, whose name was Frederick;\nand because he was very wise and very brave, people called him\nFrederick the Great. Like other kings, he lived in a beautiful palace\nand had many officers and servants to wait upon him.\n\nAmong the servants there was a little page whose name was Carl. It was\nCarl's duty to sit outside of the king's bedroom and be ready to serve\nhim at any time.\n\nOne night the king sat up very late, writing letters and sending\nmessages; and the little page was kept busy running on errands until\npast midnight.\n\nThe next morning the king wished to send him on another errand. He\nrang the little bell which was used to call the page, but no page\nanswered.\n\n\"I wonder what can have happened to the boy,\" he said; and he opened\nthe door and looked out. There, sitting in his chair, was Carl, fast\nasleep. The poor child was so tired after his night's work that he\ncould not keep awake.\n\nThe king was about to waken him roughly, when he saw a piece of paper\non the floor beside him. He picked it up and read it.\n\nIt was a letter from the page's mother:--\n\n_Dearest Carl; You are a good boy to send me all your wages, for now\nI can pay the rent and buy some warm clothing for your little sister.\nI thank you for it, and pray that God will bless you. Be faithful to\nthe king and do your duty._\n\nThe king went back to the room on tiptoe. He took ten gold pieces from\nhis table and wrapped them in the little letter. Then he went out\nagain, very quietly, and slipped them all into the boy's pocket.\n\nAfter a while he rang the bell again, very loudly.\n\nCarl awoke with a start, and came quickly to answer the call.\n\n\"I think you have been asleep,\" said the king.\n\nThe boy stammered and did not know what to say. He was frightened and\nready to cry.\n\nHe put his hand in his pocket, and was surprised to find the gold\npieces wrapped in his mother's letter. Then his eyes overflowed with\ntears, and he fell on his knees before the king.\n\n\"What is the matter?\" asked Frederick.\n\n\"Oh, your Majesty!\" cried Carl. \"Have mercy on me. It is true that I\nhave been asleep, but I know nothing about this money. Some one is\ntrying to ruin me.\"\n\n\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.5995486890944554,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_4",
+            "text": " the Fourteenth. I thank you for\nwhat you have done for me. You shall have money to buy a larger house\nand to send your boys to school. Here is my hand to kiss.\" Then he\nturned to the cardinal and said, \"Now, I am ready. Let us go.\"\n\nNot dressed in that way?\" said the cardinal. He had just noticed that\nthe king was wearing poor Charlot's Sunday suit instead of his own.\n\n\"Why not?\" answered the little king.\n\n\"Think what your mother would say if she saw you in the clothes of a\npoor man's son.\" said the cardinal. \"Think of what all the fine ladies\nwould say.\"\n\n\"Let them say what they please, I am not going to change my clothes.\"\n\nAs the little king went out, he turned at the door and called to\nCharlot. \"Come to the palace to-morrow,\" he said, \"and you shall have\nyour clothes. You may bring mine with you.\"\n\nLouis the Fourteenth became king of France when he was only five years\nold. He was called \"the Fourteenth\" because there had been thirteen\nother kings before him who bore the name of Louis. In history he is\noften called the Grand Monarch.\n\nWHICH WAS THE KING?\n\nOne day King Henry the Fourth of France was hunting in a large forest.\nTowards evening he told his men to ride home by the main road while\nhe went by another way that was somewhat longer.\n\nAs he came out of the forest he saw a little boy by the roadside, who\nseemed to be watching for some one.\n\n\"Well, my boy,\" said the king, \"are you looking for your father?\"\n\n\"No, sir,\" answered the boy. \"I am looking for the king. They say he\nis hunting in the woods, and perhaps will ride out this way. So I'm\nwaiting to see him.\"\n\n\"Oh, if that is what you wish,\" said King Henry, \"get up behind me on\nthe horse and I'll take you to the place where you will see him.\"\n\nThe boy got up at once, and sat behind the king. The horse cantered\nbriskly along, and king and boy were soon quite well acquainted.\n\n\"They say that King Henry always has a number of men with him,\" said\nthe boy; \"how shall I know which is he?\"\n\n\"Oh, that will be easy enough,\" was the answer. \"All the other men\nwill take off their hats, but the king will keep his on.\"\n\n\"Do you mean that the one with his hat on will be the king?\"\n\n\"Certainly.\"\n\nSoon they came into the main road where a number of the king's men\nwere waiting. All the men seemed amused when they saw the boy, and as\nthey rode up, they greeted the king by taking off their hats.\n\n\"Well, my boy,\" said King Henry, \"which do you think is the king?\"\n\n\"I don't know,\" answered the boy; \"but it must be either you or I, for\nwe both have our hats on.\"",
+            "score": 0.7681790553806221,
+            "metadata": {
+              "page": 46,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Did you ever hear of King Charles the Twelfth, of Sweden? He lived two\nhundred years ago, and was famous for his courage in defending his\ncountry.\n\nOne day he was in the midst of a great battle. The small house in which\nhe had taken shelter was almost between the two armies.\n\nHe called to one of his officers and bade him sit down and write a\nshort order for him.\n\nThe officer began to write, but just as he finished the first word,\na bomb came through the roof of the house and struck the floor close\nby him. He dropped the pen and sprang to his feet. He was pale with\nfear. \"What is the matter?\" asked the king.\n\n\"Oh, sir,\" he answered, \"the bomb! the bomb!\"\n\n\"Yes, I see,\" said the king. \"But what has the bomb to do with what\nI wish you to write? Sit down, and take your pen. When your country\nis in danger, you should forget your own safety.\"",
+            "score": 0.7699401475396892,
+            "metadata": {
+              "page": 31,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q07",
+        "question": "Người phụ nữ trong trang trại đã giúp Robert the Bruce như thế nào khi ông đang bị quân địch truy đuổi?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "What boy or girl has not heard the story of King Robert Brace and the\nspider? I will tell you another story of the same brave and famous\nking. He had fought a battle with his enemies, the English. His little\narmy had been beaten and scattered. Many of his best friends had been\nkilled or captured. The king himself was obliged to hide in the wild\nwoods while his foes hunted for him with hounds.\n\nFor many days he wandered through rough and dangerous places. He waded\nrivers and climbed mountains. Sometimes two or three faithful friends\nwere with him. Sometimes he was alone. Sometimes his enemies were very\nclose upon him.\n\nLate one evening he came to a little farmhouse in a lonely valley. He\nwalked in without knocking. A woman was sitting alone by the fire.\n\n\"May a poor traveler find rest and shelter here for the night?\" he\nasked. The woman answered, \"All travelers are welcome for the sake of\none; and you are welcome\"\n\n\"Who is that one?\" asked the king.\n\n\"That is Robert the Bruce,\" said the woman. \"He is the rightful lord\nof this country. He is now being hunted with hounds, but I hope soon\nto see him king over all Scotland.\"\n\n\"Since you love him so well,\" said the king, \"I will tell you\nsomething. I am Robert the Bruce.\"\n\n\"You!\" cried the woman in great surprise. \"Are you the Bruce, and are\nyou all alone?\"\n\n\"My men have been scattered,\" said the king, \"and therefore there is\nno one with me.\"\n\n\"That is not right,\" said the brave woman. \"I have two sons who are\ngallant and trusty. They shall go with you and serve you.\"\n\nSo she called her two sons. They were tall and strong young men, and\nthey gladly promised to go with the king and help him.\n\n[Illustration]\n\nThe king sat down by the fire, and the woman hurried to get things\nready for supper. The two young men got down their bows and arrows,\nand all were busy making plans for the next day.\n\nSuddenly a great noise was heard outside. They listened. They heard\nthe tramping of horses and the voices of a number of men.\n\n\"The English! the English!\" said the young men.\n\n\"Be brave, and defend your king with your lives,\" said their mother.\n\nThen some one outside called loudly, \"Have you seen King Robert the\nBruce pass this way?\"\n\n\"That is my brother Edward's voice,\" said the king. \"These are friends,\nnot enemies.\"\n\nThe door was thrown open and he saw a hundred brave men, all ready to\ngive him aid. He forgot his hunger; he forgot his weariness. He began\nto ask about his enemies who had been hunting him.\n\n\"I saw two hundred of them in the village below us,\" said one of his\nofficers. \"They are resting there for the night and have no fear of\ndanger from us. If you have a mind to make haste, we may surprise\nthem.\"\n\n\"Then let us mount and ride,\" said the king.\n\nThe next minute they were off. They rushed suddenly into the village.\nThey routed the king's enemies and scattered them.\n\nAnd Robert the Bruce was never again obliged to hide in the woods or\nto run from savage hounds. Soon he became the real king and ruler of\nal",
+            "score": 0.5130231504678594,
+            "metadata": {
+              "page": 40,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "t us mount and ride,\" said the king.\n\nThe next minute they were off. They rushed suddenly into the village.\nThey routed the king's enemies and scattered them.\n\nAnd Robert the Bruce was never again obliged to hide in the woods or\nto run from savage hounds. Soon he became the real king and ruler of\nall Scotland,\n\n\"TRY, TRY AGAIN!\"\n\nThere was once a famous ruler of Tartary whose name was Tamerlane.\nLike Alexander the Great, he wished to become the master of the whole\nworld. So he raised a great army and made war against other countries.\nHe conquered many kings and burned many cities.\n\nBut at last his army was beaten; his men were scattered; and Tamerlane\nfled alone from the field of battle.\n\nFor a long time he wandered in fear from place to place. His foes were\nlooking for him. He was in despair. He was about to lose all hope.\n\nOne day he was lying under a tree, thinking of his misfortunes. He had\nnow been a wanderer for twenty days. He could not hold out much\nlonger. Suddenly he saw a small object creeping up the trunk of the\ntree. He looked more closely and saw that it was an ant. The ant was\ncarrying a grain of wheat as large as itself.\n\nAs Tamerlane looked, he saw that there was a hole in the tree only a\nlittle way above, and that this was the home of the ant. \"You are a\nbrave fellow, Mr. Ant,\" he said; \"but you have a heavy load to carry.\"\n\nJust as he spoke, the ant lost its footing and fell to the ground. But\nit still held on to the grain of wheat.\n\nA second time it tried to carry its load up the rough trunk of the\ntree, and a second time it failed.\n\nTamerlane watched the brave little insect. It tried three times, four\ntimes, a dozen times, twenty times--but always with the same result.\n\nThen it tried the twenty-first time. Slowly, one little step at a time,\nit crept up across the rough place where it had slipped and fallen so\noften. The next minute it ran safely into its home, carrying its\nprecious load. \"Well done!\" said Tamerlane. \"You have taught me a\nlesson. I, too, will try, try again, till I succeed.\"\n\nAnd this he did.\n\nOf what other story does this remind you?",
+            "score": 0.7197474745707273,
+            "metadata": {
+              "page": 40,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_3",
+            "text": ". Then he tamed a parrot and some goats.\n\nHe built a house of some sticks and vines. He sowed grain and baked\nbread. He made a boat for himself. He did a great many things. He was\nbusy every day.\n\nAt last a ship happened to pass that way and Robinson was taken on\nboard. He was glad to go back to England to see his home and his\nfriends once more.\n\nThis is the story which Mr. Defoe wrote. Perhaps he would not have\nthought of it, had he not first heard the true story of Alexander\nSelkirk.",
+            "score": 0.7341080356019185,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q08",
+        "question": "John Marshall muốn truyền đạt điều gì khi tự mình mang con gà tây đến nhà cho người thanh niên Johnson?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "In Richmond, Virginia, one Saturday morning, an old man went into the\nmarket to buy something. He was dressed plainly, his coat was worn,\nand his hat was dingy. On his arm he carried a small basket.\n\n\"I wish to get a fowl for to-morrow's dinner,\" he said.\n\nThe market man showed him a fat turkey, plump and white and ready for\nroasting.\n\n\"Ah! that is just what I want,\" said the old man. \"My wife will be\ndelighted with it.\"\n\nHe asked the price and paid for it. The market man wrapped a paper\nround it and put it in the basket.\n\nJust then a young man stepped up. \"I will take one of those turkeys,\"\nhe said. He was dressed in fine style and carried a small cane.\n\n\"Shall I wrap it up for you?\" asked the market man.\n\n\"Yes, here is your money,\" answered the young gentleman; \"and send it\nto my house at once.\"\n\n\"I cannot do that,\" said the market man. \"My errand boy is sick to-\nday, and there is no one else to send. Besides, it is not our custom\nto deliver goods.\"\n\n\"Then how am I to get it home?\" asked the young gentleman.\n\n\"I suppose you will have to carry it yourself,\" said the market man.\n\"It is not heavy.\"\n\n\"Carry it myself! Who do you think I am? Fancy me carrying a turkey\nalong the street!\" said the young gentleman; and he began to grow very\nangry. The old man who had bought the first turkey was standing quite\nnear. He had heard all that was said.\n\n\"Excuse me, sir,\" he said; \"but may I ask where you live?\"\n\n\"I live at Number 39, Blank Street,\" answered the young gentleman;\n\"and my name is Johnson.\"\n\n\"Well, that is lucky,\" said the old man, smiling. \"I happen to be going\nthat way, and I will carry your turkey, if you will allow me.\"\n\n\"Oh, certainly!\" said Mr. Johnson. \"Here it is. You may follow me.\"\n\nWhen they reached Mr. Johnson's house, the old man politely handed him\nthe turkey and turned to go.\n\n\"Here, my friend, what shall I pay you?\" said the young gentleman.\n\n\"Oh, nothing, sir, nothing,\" answered the old man. \"It was no trouble\nto me, and you are welcome.\"\n\nHe bowed and went on. Young Mr. Johnson looked after him and wondered.\nThen he turned and walked briskly back to the market.\n\n\"Who is that polite old gentleman who carried my turkey for me?\" he\nasked of the market man.\n\n\"That is John Marshall, Chief Justice of the United States. He is one\nof the greatest men in our country,\" was the answer.\n\nThe young gentleman was surprised and ashamed. \"Why did he offer to\ncarry my turkey?\" he asked.\n\n\"He wished to teach you a lesson,\" answered the market man.\n\n\"What sort of lesson?\"\n\"He wished to teach you that no man should feel himself too fine to\ncarry his own packages.\"\n\n\"Oh, no!\" said another man who had seen and heard it all. \"Judge\nMarshall carried the turkey simply because he wished to be kind and\nobliging. That is his way.\"",
+            "score": 0.6581001355537657,
+            "metadata": {
+              "page": 41,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "or, too, I'll go\nright round to the Planters' and fetch him back.\"\n\nSo he went to the other hotel, where he found the vice president\nsitting with some friends in the parlor.\n\n\"Mr. Jefferson,\" he said, \"I have come to ask your pardon. You were\nso bespattered with mud that I thought you were some old farmer. If\nyou'll come back to my house, you shall have the best room in it--yes,\nall the rooms if you wish. Won't you come?\"\n\n\"No,\" answered Mr. Jefferson. \"A farmer is as good as any other man;\nand where there's no room for a farmer, there can be no room for me.\"",
+            "score": 0.6821908277205646,
+            "metadata": {
+              "page": 15,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "One morning there was a loud knock at Dean Swift's door. The servant\nopened it. A man who was outside handed her a fine duck that had lately\nbeen killed, and said,--\"Here's a present for the Dean. It's from Mr.\nBoyle.\"\n\nThen, without another word, he turned and walked away.\n\nA few days afterward the man came again. This time he brought a\npartridge. \"Here's another bird from Mr. Boyle.\"\n\nNow, Mr. Boyle was a sporting neighbor who spent a good deal of time\nin shooting. He was a great admirer of Dean Swift, and took pleasure\nin sending him presents of game.\n\nThe third time, the man brought a quail. \"Here's something else for\nthe Dean,\" he said roughly, and tossed it into the servant's arms.\n\nThe servant complained to her master. \"That fellow has no manners,\"\nshe said.\n\n\"The next time he comes,\" said the Dean, \"let me know, and I will go\nto the door.\"\n\nIt was not long until the man came with another present. The Dean went\nto the door.\n\n\"Here's a rabbit from Mr. Boyle,\" said the man.\n\n\"See here,\" said the Dean in a stern voice, \"that is not the way to\ndeliver a message here. Just step inside and make believe that you are\nDean Swift. I will go out and make believe that I am bringing him a\npresent. I will show you how a messenger ought to behave.\"\n\n\"I'll agree to that,\" said the man; and he stepped inside. The Dean\ntook the rabbit and went out of the house. He walked up the street to\nthe next block. Then he came back and knocked gently at the door.\n\n[Illustration]\n\nThe door was opened by the man from Mr. Boyle's. The Dean bowed\ngracefully and said, \"If you please, sir, Mr. Boyle's compliments, and\nhe wishes you to accept of this fine rabbit.\"\n\n\"Oh, thank you,\" said the man very politely. Then, taking out his\npurse, he offered the Dean a shilling. \"And here is something for your\ntrouble.\"\n\nThe lesson in manners was not forgotten; for, always after that, the\nman was very polite when he brought his presents. And the Dean also\ntook the hint; for he always remembered to give the man a \"tip\" for\nhis trouble. Jonathan Swift, often called Dean Swift, was famous as\na writer on many subjects. Among other books he wrote \"Gulliver's\nTravels,\" which you, perhaps, will read some time.",
+            "score": 0.7133844807834577,
+            "metadata": {
+              "page": 16,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q09",
+        "question": "Robert Fulton và Christopher đã cải tiến chiếc thuyền đánh cá bằng cách nào để không cần dùng sào hoặc mái chèo thông thường?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "More than a hundred years ago, two boys were fishing in a small river.\nThey sat in a heavy flat-bottomed boat, each holding a long, crooked\nrod in his hands and eagerly waiting for \"a bite.\"\n\nWhen they wanted to move the boat from one place to another they had\nto pole it; that is, they pushed against a long pole, the lower end\nof which reached the bottom of the stream.\n\n\"This is slow work, Robert,\" said the older of the boys as they were\npoling up the river to a new fishing place. \"The old boat creeps over\nthe water no faster than a snail.\"\n\n\"Yes, Christopher; and it is hard work, too,\" answered Robert. \"I think\nthere ought to be some better way of moving a boat.\"\n\n\"Yes, there is a better way, and that is by rowing,\" said Christopher.\n\"But we have no oars.\"\n\n\"Well, I can make some oars,\" said Robert; \"but I think there ought\nto be still another and a better way. I am going to find such a way\nif I can.\" The next day Robert's aunt heard a great pounding and sawing\nin her woodshed. The two boys were there, busily working with hammer\nand saw. \"What are you making, Robert?\" she asked.\n\n\"Oh, I have a plan for making a boat move without poling it or rowing\nit,\" he answered.\n\nHis aunt laughed and said, \"Well, I hope that you will succeed.\"\n\nAfter a great deal of tinkering and trying, they did succeed in making\ntwo paddle wheels. They were very rough and crude, but strong and\nserviceable. They fastened each of these wheels to the end of an iron\nrod which they passed through the boat from side to side. The rod was\nbent in the middle so that it could be turned as with a crank. When\nthe work was finished, the old fishing boat looked rather odd, with\na paddle wheel on each side which dipped just a few inches into the\nwater. The boys lost no time in trying it.\n\n[Illustration]\n\n\"She goes ahead all right,\" said Christopher, \"but how shall we guide\nher?\"\n\n\"Oh, I have thought of that,\" said Robert. He took something like an\noarlock from his pocket and fastened it to the stern of the boat; then\nwith a paddle which worked in this oarlock one of the boys could guide\nthe boat while the other turned the paddle wheels.\n\n\"It is better than poling the boat,\" said Christopher.\n\n\"It is better than rowing, too,\" said Robert. \"See how fast she goes!\"\n\nThat night when Christopher went home he had a wonderful story to tell.\n\"Bob Fulton planned the whole thing,\" he said, \"and I helped him make\nthe paddles and put them on the boat.\"\n\n\"I wonder why we didn't think of something like that long ago,\" said\nhis father. \"Almost anybody could rig up an old boat like that.\"\n\n\"Yes, I wonder, too,\" said Christopher. \"It looks easy enough, now\nthat Bob has shown how it is done.\"\n\nWhen Robert Fulton became a man, he did not forget his experiment with\nthe old fishing boat. He kept on, planning and thinking and working,\nuntil at last he succeeded in making a boat with paddle wheels that\ncould be run by steam.\n\nHe is now remembered and honored as the inventor of the steamboat. He\nbecame famous b",
+            "score": 0.49961968972277615,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "n became a man, he did not forget his experiment with\nthe old fishing boat. He kept on, planning and thinking and working,\nuntil at last he succeeded in making a boat with paddle wheels that\ncould be run by steam.\n\nHe is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.5964568719741377,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "aw that Cyrus had a will of his own, and\nthis pleased him very much.\n\n\"I shall be glad to see what you can do,\" he said. \"Tomorrow, you shall\nbe the king's cupbearer.\"",
+            "score": 0.8003038150102895,
+            "metadata": {
+              "page": 26,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q10",
+        "question": "Người làm vườn đã giải thích như thế nào về việc giữ lại mười đồng vàng trong chiếc túi mà ông tìm thấy?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "heir neighborhood who seemed to\nhave had some sort of good luck.\n\nThis man was a gardener. A year ago he was so poor that he had scarcely\nclothes for his back. His children were crying for food. But lately\neverything had changed for him. Both he and his family dressed well;\nthey had plenty to eat; he had even bought a horse to help him carry\nhis produce to market.\n\nThe caliph at once gave orders for the gardener to be brought before\nhim the next day. He also ordered that the merchant should come at the\nsame time.\n\nBefore noon the next day the gardener was admitted to the palace. As\nsoon as he entered the hall the caliph went to meet him. \"Good friend,\"\nhe said, \"if you should find something that we have lost, what would\nyou do with it?\"\n\n[Illustration]\n\nThe gardener put his hand under his cloak and drew out the very bag\nthat the merchant had lost.\n\n\"Here it is, my lord,\" he said.\n\nAt sight of his lost treasure, the merchant began to dance and shout\nfor joy.\n\n\"Tell us,\" said Al Mansour to the gardener, \"tell us how you came to\nfind that bag.\"\n\nThe gardener answered: \"A year ago, as I was spading in my garden, I\nsaw something fall at the foot of a palm tree. I ran to pick it up and\nwas surprised to find that it was a bag full of bright gold pieces.\nI said to myself, 'This money must belong to our master, Al Mansour.\nSome large bird has stolen it from his palace.'\"\n\n\"Well, then,\" said the caliph, \"why did you not return it to us at\nonce?\" \"It was this way,\" said the gardener: \"I looked at the gold\npieces, and then thought of my own great necessities. My wife and\nchildren were suffering from the want of food and clothing. I had no\nshoes for my feet, no coat for my back. So I said to myself, 'My lord\nAl Mansour is famous for his kindness to the poor. He will not care.'\nSo I took ten gold pieces from the many that were in the bag.\n\n\"I meant only to borrow them. And I put the bag in a safe place, saying\nthat as soon as I could replace the ten pieces, I would return all to\nmy lord Al Mansour. With much hard labor and careful management I have\nsaved only five little silver pieces. But, as I came to your palace\nthis morning, I kept saying to myself, 'When our lord Al Mansour learns\njust how it was that I borrowed the gold, I have no doubt that in his\nkindness of heart he will forgive me the debt.'\"\n\nGreat was the caliph's surprise when he heard the poor man's story.\nHe took the bag of money and handed it to the merchant. \"Take the bag\nand count the money that is in it,\" he said. \"If anything is lacking,\nI will pay it to you.\"\n\nThe merchant did as he was told. \"There is nothing lacking,\" he said,\n\"but the ten pieces he has told you about; and I will give him these\nas a reward.\"\n\n\"No,\" said Al Mansour, \"it is for me to reward the man as he deserves.\"\n\nSaying this, he ordered that ten gold pieces be given to the merchant\nin place of those that were lacking. Then he rewarded the gardener\nwith ten more pieces for his honesty.\n\n\"Your debt is paid. Think no more ",
+            "score": 0.6971402506306544,
+            "metadata": {
+              "page": 43,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_3",
+            "text": "e\nas a reward.\"\n\n\"No,\" said Al Mansour, \"it is for me to reward the man as he deserves.\"\n\nSaying this, he ordered that ten gold pieces be given to the merchant\nin place of those that were lacking. Then he rewarded the gardener\nwith ten more pieces for his honesty.\n\n\"Your debt is paid. Think no more about it,\" he said.",
+            "score": 0.7437327886967241,
+            "metadata": {
+              "page": 43,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_3",
+            "text": "in the grass and listened.\n\n\"O little birds,\" he said, \"I love you, for you are my brothers and\nsisters of the air. Let me tell you something, my little brothers, my\nlittle sisters: You ought always to love God and praise Him.\n\n\"For think what He has given you. He has given you wings with which\nto fly through the air. He has given you clothing both warm and\nbeautiful. He has given you the air in which to move and have homes.\n\n\"And think of this, O little brothers: you sow not, neither do you\nreap, for God feeds you. He gives you the rivers and the brooks from\nwhich to drink. He gives you the mountains and the valleys where you\nmay rest. He gives you the trees in which to build your nests.\n\n\"You toil not, neither do you spin, yet God takes care of you and your\nlittle ones. It must be, then, that He loves you. So, do not be\nungrateful, but sing His praises and thank Him for his goodness toward\nyou.\"\n\nThen the saint stopped speaking and looked around him. All the birds\nsprang up joyfully. They spread their wings and opened their mouths\nto show that they understood his words.\n\nAnd when he had blessed them, all began to sing; and the whole forest\nwas filled with sweetness and joy because of their wonderful melodies.",
+            "score": 0.8140456404849208,
+            "metadata": {
+              "page": 33,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q11",
+        "question": "Bài học mà Benjamin Franklin rút ra sau khi dùng toàn bộ số tiền mẹ cho để mua chiếc còi là gì?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Two hundred years ago there lived in Boston a little boy whose name\nwas Benjamin Franklin.\n\nOn the day that he was seven years old, his mother gave him a few\npennies.\n\nHe looked at the bright, yellow pieces and said, \"What shall I do with\nthese coppers, mother?\"\n\nIt was the first money that he had ever had.\n\n\"You may buy something, if you wish,\" said his mother.\n\n\"And then will you give me more?\" he asked.\n\nHis mother shook her head and said: \"No, Benjamin. I cannot give you\nany more. So you must be careful not to spend these foolishly.\"\n\nThe little fellow ran into the street. He heard the pennies jingle in\nhis pocket. How rich he was!\n\nBoston is now a great city, but at that time it was only a little town.\nThere were not many stores.\n\nAs Benjamin ran down the street, he wondered what he should buy. Should\nhe buy candy? He hardly knew how it tasted. Should he buy a pretty\ntoy? If he had been the only child in the family, things might have\nbeen different. But there were fourteen boys and girls older than he,\nand two little sisters who were younger.\n\nWhat a big family it was! And the father was a poor man. No wonder the\nlad had never owned a toy.\n\nHe had not gone far when he met a larger boy, who was blowing a\nwhistle.\n\n\"I wish I had that whistle,\" he said.\n\nThe big boy looked at him and blew it again. Oh, what a pretty sound\nit made!\n\n\"I have some pennies,\" said Benjamin. He held them in his hand, and\nshowed them to the boy. \"You may have them, if you will give me the\nwhistle.\" \"All of them?\"\n\n\"Yes, all of them.\"\n\n\"Well, it's a bargain,\" said the boy; and he gave the whistle to\nBenjamin, and took the pennies.\n\nLittle Benjamin Franklin was very happy; for he was only seven years\nold. He ran home as fast as he could, blowing the whistle as he ran.\n\n\"See, mother,\" he said, \"I have bought a whistle.\"\n\n\"How much did you pay for it?\"\n\n\"All the pennies you gave me.\"\n\n\"Oh, Benjamin!\"\n\nOne of his brothers asked to see the whistle.\n\n\"Well, well!\" he said. \"You've paid a dear price for this thing. It's\nonly a penny whistle, and a poor one at that.\"\n\n\"You might have bought half a dozen such whistles with the money I\ngave you,\" said his mother.\n\nThe little boy saw what a mistake he had made. The whistle did not\nplease him any more. He threw it upon the floor and began to cry.\n\n\"Never mind, my child,\" said his mother, very kindly. \"You are only\na very little boy, and you will learn a great deal as you grow bigger.\nThe lesson you have learned to-day is never to pay too dear for a\nwhistle.\" Benjamin Franklin lived to be a very old man, but he never\nforgot that lesson.\n\nEvery boy and girl should remember the name of Benjamin Franklin. He\nwas a great thinker and a great doer, and with Washington he helped\nto make our country free. His life was such that no man could ever\nsay, \"Ben Franklin has wronged me.\"",
+            "score": 0.4660048528243609,
+            "metadata": {
+              "page": 6,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "doer, and with Washington he helped\nto make our country free. His life was such that no man could ever\nsay, \"Ben Franklin has wronged me.\"",
+            "score": 0.6640413969673047,
+            "metadata": {
+              "page": 6,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "n became a man, he did not forget his experiment with\nthe old fishing boat. He kept on, planning and thinking and working,\nuntil at last he succeeded in making a boat with paddle wheels that\ncould be run by steam.\n\nHe is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.697261386911229,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q12",
+        "question": "Sirrah đã làm gì để bảo vệ đàn cừu trong cơn bão khiến James Hogg tưởng rằng mình đã mất toàn bộ đàn?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "I\n\nIn Scotland there once lived a poor shepherd whose name was James Hogg.\nHis father and grandfather and great-grandfather had all been\nshepherds.\n\nIt was his business to take care of the sheep which belonged to a rich\nlandholder by the Ettrick Water. Sometimes he had several hundreds of\nlambs to look after. He drove these to the pastures on the hills and\nwatched them day after day while they fed on the short green grass.\n\nHe had a dog which he called Sirrah. This dog helped him watch the\nsheep. He would drive them from place to place as his master wished.\nSometimes he would take care of the whole flock while the shepherd was\nresting or eating his dinner.\n\nOne dark night James Hogg was on the hilltop with a flock of seven\nhundred lambs. Sirrah was with him. Suddenly a storm came up. There\nwas thunder and lightning; the wind blew hard; the rain poured.\n\nThe poor lambs were frightened. The shepherd and his dog could not\nkeep them together. Some of them ran towards the east, some towards\nthe west, and some towards the south.\n\nThe shepherd soon lost sight of them in the darkness. With his lighted\nlantern in his hand, he went up and down the rough hills calling for\nhis lambs.\n\nTwo or three other shepherds joined him in the search. All night long\nthey sought for the lambs.\n\nMorning came and still they sought. They looked, as they thought, in\nevery place where the lambs might have taken shelter.\n\nAt last James Hogg said, \"It's of no use; all we can do is to go home\nand tell the master that we have lost his whole flock.\"\n\nThey had walked a mile or two towards home, when they came to the edge\nof a narrow and deep ravine. They looked down, and at the bottom they\nsaw some lambs huddled together among the rocks. And there was Sirrah\nstanding guard over them and looking all around for help \"These must\nbe the lambs that rushed off towards the south,\" said James Hogg.\n\n[Illustration]\n\nThe men hurried down and soon saw that the flock was a large one.\n\n\"I really believe they are all here,\" said one.\n\nThey counted them and were surprised to find that not one lamb of the\ngreat flock of seven hundred was missing.\n\nHow had Sirrah managed to get the three scattered divisions together?\nHow had he managed to drive all the frightened little animals into\nthis place of safety?\n\nNobody could answer these questions. But there was no shepherd in\nScotland that could have done better than Sirrah did that night.\n\nLong afterward James Hogg said, \"I never felt so grateful to any\ncreature below the sun as I did to Sirrah that morning.\"\n\nII\n\nWhen James Hogg was a boy, his parents were too poor to send him to\nschool. By some means, however, he learned to read; and after that he\nloved nothing so much as a good book.\n\nThere were no libraries near him, and it was hard for him to get books.\nBut he was anxious to learn. Whenever he could buy or borrow a volume\nof prose or verse he carried it with him until he had read it through.\nWhile watching his flocks, he spent much of his time in re",
+            "score": 0.6118636480033157,
+            "metadata": {
+              "page": 7,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "ing so much as a good book.\n\nThere were no libraries near him, and it was hard for him to get books.\nBut he was anxious to learn. Whenever he could buy or borrow a volume\nof prose or verse he carried it with him until he had read it through.\nWhile watching his flocks, he spent much of his time in reading. He\nloved poetry and soon began to write poems of his own. These poems\nwere read and admired by many people.\n\nThe name of James Hogg became known all over Scotland. He was often\ncalled the Ettrick Shepherd, because he was the keeper of sheep near\nthe Ettrick Water.\n\nMany of his poems are still read and loved by children as well as by\ngrown up men and women. Here is one:--",
+            "score": 0.6588676735255132,
+            "metadata": {
+              "page": 7,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "What boy or girl has not heard the story of King Robert Brace and the\nspider? I will tell you another story of the same brave and famous\nking. He had fought a battle with his enemies, the English. His little\narmy had been beaten and scattered. Many of his best friends had been\nkilled or captured. The king himself was obliged to hide in the wild\nwoods while his foes hunted for him with hounds.\n\nFor many days he wandered through rough and dangerous places. He waded\nrivers and climbed mountains. Sometimes two or three faithful friends\nwere with him. Sometimes he was alone. Sometimes his enemies were very\nclose upon him.\n\nLate one evening he came to a little farmhouse in a lonely valley. He\nwalked in without knocking. A woman was sitting alone by the fire.\n\n\"May a poor traveler find rest and shelter here for the night?\" he\nasked. The woman answered, \"All travelers are welcome for the sake of\none; and you are welcome\"\n\n\"Who is that one?\" asked the king.\n\n\"That is Robert the Bruce,\" said the woman. \"He is the rightful lord\nof this country. He is now being hunted with hounds, but I hope soon\nto see him king over all Scotland.\"\n\n\"Since you love him so well,\" said the king, \"I will tell you\nsomething. I am Robert the Bruce.\"\n\n\"You!\" cried the woman in great surprise. \"Are you the Bruce, and are\nyou all alone?\"\n\n\"My men have been scattered,\" said the king, \"and therefore there is\nno one with me.\"\n\n\"That is not right,\" said the brave woman. \"I have two sons who are\ngallant and trusty. They shall go with you and serve you.\"\n\nSo she called her two sons. They were tall and strong young men, and\nthey gladly promised to go with the king and help him.\n\n[Illustration]\n\nThe king sat down by the fire, and the woman hurried to get things\nready for supper. The two young men got down their bows and arrows,\nand all were busy making plans for the next day.\n\nSuddenly a great noise was heard outside. They listened. They heard\nthe tramping of horses and the voices of a number of men.\n\n\"The English! the English!\" said the young men.\n\n\"Be brave, and defend your king with your lives,\" said their mother.\n\nThen some one outside called loudly, \"Have you seen King Robert the\nBruce pass this way?\"\n\n\"That is my brother Edward's voice,\" said the king. \"These are friends,\nnot enemies.\"\n\nThe door was thrown open and he saw a hundred brave men, all ready to\ngive him aid. He forgot his hunger; he forgot his weariness. He began\nto ask about his enemies who had been hunting him.\n\n\"I saw two hundred of them in the village below us,\" said one of his\nofficers. \"They are resting there for the night and have no fear of\ndanger from us. If you have a mind to make haste, we may surprise\nthem.\"\n\n\"Then let us mount and ride,\" said the king.\n\nThe next minute they were off. They rushed suddenly into the village.\nThey routed the king's enemies and scattered them.\n\nAnd Robert the Bruce was never again obliged to hide in the woods or\nto run from savage hounds. Soon he became the real king and ruler of\nal",
+            "score": 0.7611490714688278,
+            "metadata": {
+              "page": 40,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q13",
+        "question": "Paul Revere đã sử dụng tín hiệu đèn như thế nào để biết quân Anh sẽ đi qua con đường nào?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Listen, my children, and you shall hear\n    Of the midnight ride of Paul Revere.\n                  Longfellow.\n\nThe midnight ride of Paul Revere happened a long time ago when this\ncountry was ruled by the king of England.\n\nThere were thousands of English soldiers in Boston. The king had sent\nthem there to make the people obey his unjust laws. These soldiers\nguarded the streets of the town; they would not let any one go out or\ncome in without their leave.\n\nThe people did not like this. They said, \"We have a right to be free\nmen, but the king treats us as slaves. He makes us pay taxes and gives\nus nothing in return. He sends soldiers among us to take away our\nliberty.\"\n\nThe whole country was stirred up. Brave men left their homes and\nhurried toward Boston.\n\nThey said, \"We do not wish to fight against the king, but we are free\nmen, and he must not send soldiers to oppress us. If the people of\nBoston must fight for their liberty, we will help them.\"\nThese men were not afraid of the king's soldiers. Some of them camped\nin Charlestown, [Footnote: Charles'town.] a village near Boston. From\nthe hills of Charlestown they could watch and see what the king's\nsoldiers were doing.\n\nThey wished to be ready to defend themselves, if the soldiers should\ntry to do them harm. For this reason they had bought some powder and\nstored it at Concord,[Footnote: Concord (_pro_. kong'krd).] nearly\ntwenty miles away.\n\nWhen the king's soldiers heard about this powder, they made up their\nminds to go out and get it for themselves.\n\nAmong the watchers at Charlestown was a brave young man named Paul\nRevere. He was ready to serve his country in any way that he could.\n\nOne day a friend of his who lived in Boston came to see him. He came\nvery quietly and secretly, to escape the soldiers.\n\n\"I have something to tell you,\" he said. \"Some of the king's soldiers\nare going to Concord to get the powder that is there. They are getting\nready to start this very night.\"\n\n\"Indeed!\" said Paul Revere. \"They shall get no powder, if I can help\nit. I will stir up all the farmers between here and Concord, and those\nfellows will have a hot time of it. But you must help me.\"\n\n\"I will do all that I can,\" said his friend.\n\n\"Well, then,\" said Paul Revere, \"you must go back to Boston and watch.\nWatch, and as soon as the soldiers are ready to start, hang a lantern\nin the tower of the old North Church. If they are to cross the river,\nhang two. I will be here, ready. As soon as I see the light, I will\nmount my horse and ride out to give the alarm.\"\n\nAnd so it was done.\n\nWhen night came, Paul Revere was at the riverside with his horse. He\nlooked over toward Boston. He knew where the old North Church stood,\nbut he could not see much in the darkness.\n\nHour after hour he stood and watched. The town seemed very still; but\nnow and then he could hear the beating of a drum or the shouting of\nsome soldier.\n\nThe moon rose, and by its light he could see the dim form of the church\ntower, far away. He heard the clock stri",
+            "score": 0.49662764953136396,
+            "metadata": {
+              "page": 11,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "uld not see much in the darkness.\n\nHour after hour he stood and watched. The town seemed very still; but\nnow and then he could hear the beating of a drum or the shouting of\nsome soldier.\n\nThe moon rose, and by its light he could see the dim form of the church\ntower, far away. He heard the clock strike ten. He waited and watched.\n\nThe clock struck eleven. He was beginning to feel tired. Perhaps the\nsoldiers had given up their plan.\n\nHe walked up and down the river bank, leading his horse behind him;\nbut he kept his eyes turned always toward the dim, dark spot which he\nknew was the old North Church.\n\nAll at once a light flashed out from the tower. \"Ah! there it is!\" he\ncried. The soldiers had started.\n\nHe spoke to his horse. He put his foot in the stirrup. He was ready\nto mount.\n\nThen another light flashed clear and bright by the side of the first\none. The soldiers would cross the river.\n\nPaul Revere sprang into the saddle. Like a bird let loose, his horse\nleaped forward. Away they went.\n\nAway they went through the village street and out upon the country\nroad. \"Up! up!\" shouted Paul Revere. \"The soldiers are coming! Up! up!\nand defend yourselves!\"\n\n[Illustration]\n\nThe cry awoke the farmers; they sprang from their beds and looked out.\nThey could not see the speeding horse, but they heard the clatter of\nits hoofs far down the road, and they understood the cry, \"Up! up! and\ndefend yourselves!\"\n\n\"It is the alarm! The redcoats are coming,\" they said to each other.\nThen they took their guns, their axes, anything they could find, and\nhurried out.\n\nSo, through the night, Paul Revere rode toward Concord. At every\nfarmhouse and every village he repeated his call.\n\nThe alarm quickly spread. Guns were fired. Bells were rung. The people\nfor miles around were roused as though a fire were raging.\n\nThe king's soldiers were surprised to find everybody awake along the\nroad. They were angry because their plans had been discovered.\n\nWhen they reached Concord, they burned the courthouse there.\n\nAt Lexington, not far from Concord, there was a sharp fight in which\nseveral men were killed. This, in history, is called the Battle of\nLexington. It was the beginning of the war called the Revolutionary\nWar. But the king's soldiers did not find the gunpowder. They were\nglad enough to march back without it. All along the road the farmers\nwere waiting for them. It seemed as if every man in the country was\nafter them. And they did not feel themselves safe until they were once\nmore in Boston.",
+            "score": 0.567400743057181,
+            "metadata": {
+              "page": 11,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "e crept back into the cave. The wolf\nsaw him. She growled so loudly that the men and boys outside were\nfrightened. But Putnam was not afraid. He raised his gun and fired at\nthe great beast. When his friends heard the gun they pulled the\nrope quickly and drew him out. It was no fun to be pulled over the\nsharp stones in that way; but it was better than to be bitten by the wolf.\nPutnam loaded his gun again. Then he listened. There was not a sound\ninside of the cave. Perhaps the wolf was waiting to spring upon him.\nHe crept into the cave for the third time. There were no balls of fire\nto be seen now. No angry growl was heard. The wolf was dead.\n\nPutnam stayed in the cave so long that his friends began to be alarmed.\nAfter a while, however, he gave the rope a quick jerk. Men and boys\npulled with all their might; and Putnam and the wolf were drawn out\ntogether.\n\nThis happened when Israel Putnam was a young man. When the\nRevolutionary War began he was one of the first to hurry to Boston to\nhelp the people defend themselves against the British soldiers. He\nbecame famous as one of the bravest and best of the generals who fought\nto make our country free.",
+            "score": 0.7165182673238732,
+            "metadata": {
+              "page": 13,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q14",
+        "question": "Vì sao người thợ rèn đồng ý đóng ít đinh hơn mức cần thiết vào móng ngựa của nhà vua?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "aw that Cyrus had a will of his own, and\nthis pleased him very much.\n\n\"I shall be glad to see what you can do,\" he said. \"Tomorrow, you shall\nbe the king's cupbearer.\"",
+            "score": 0.7720413444479348,
+            "metadata": {
+              "page": 26,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "There was a caliph of Persia whose name was Al Mamoun. [Footnote: Al\nMam'oun] He had two sons whom he wished to become honest and noble\nmen. So he employed a wise man whose name was Al Farra to be their\nteacher. One day, after lesson hours, Al Farra rose to go out of the\nhouse. The two boys saw him and ran to fetch his shoes. For in that\ncountry, people never wear shoes in the house, but take them off at\nthe door. The two boys ran for the teacher's shoes, and each claimed\nthe honor of carrying them to him. But they dared not quarrel and at\nlast agreed that each should carry one shoe. Thus the honor would be\ndivided. When the caliph heard of this he sent for Al Farra and asked\nhim, \"Who is the most honored of men?\"\n\nThe teacher answered, \"I know of no man who is more honored than\nyourself.\"\n\n\"No, no,\" said the caliph. \"It is the man who rose to go out, and two\nyoung princes contended for the honor of giving him his shoes but at\nlast agreed that each should offer him one.\"\n\nAl Farra answered, \"Sir, I should have forbidden them to do this, but\nI feared to discourage them. I hope that I shall never do anything to\nmake them careless of their duties.\"\n\n\"Well,\" said the caliph, \"if you had forbidden them thus to honor you,\nI should have declared you in the wrong. They did nothing that was\nbeneath the dignity of princes. Indeed, they honored themselves by\nhonoring you.\" Al Farra bowed low, but said nothing; and the caliph\nwent on. \"No young man nor boy,\" said he, \"can be so high in rank as\nto neglect three great duties: he must respect his ruler, he must love\nand obey his father, and he must honor his teacher.\"\n\nThen he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.7985181056866939,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "key simply because he wished to be kind and\nobliging. That is his way.\"",
+            "score": 0.799326354615846,
+            "metadata": {
+              "page": 41,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q15",
+        "question": "Điều gì khiến George Washington thay đổi quyết định lên tàu đi biển dù trước đó rất háo hức?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "\"I should like to be a sailor,\" said George Washington. \"Then I could\ngo to many strange lands and see many wonderful things. And, by and\nby, I might become the captain of a ship.\"\n\nHe was only fourteen years old.\n\nHis older brothers were quite willing that he should go to sea. They\nsaid that a bright boy like George would not long be a common sailor.\nHe would soon become a captain and then perhaps a great admiral.\n\nAnd so the matter was at last settled. George's brothers knew the\nmaster of a trading ship who was getting ready to sail to England. He\nagreed to take the boy with him and teach him how to be a good sailor.\n\nGeorge's mother was very sad. His uncle had written her a letter\nsaying:\n\n\"Do not let him go to sea. If he begins as a common sailor, he will\nnever be anything else.\"\n\nBut George had made up his mind to go. He was headstrong and\ndetermined. He would not listen to any one who tried to persuade him to\nstay at home. At last the day came for the ship to sail. It was waiting\nin the river. A boat was at the landing, ready to take him on board.\nThe little chest that held his clothing had been carried down to the\nbank. George was in high glee at the thought of going.\n\n\"Good-by, mother,\" he said.\n\nHe stood on the doorstep and looked back into the house. He saw the\nkind faces of those whom he loved. He began to feel very sad.\n\n\"Good-by, my dear boy!\"\n\nGeorge saw the tears in his mother's eyes. He saw them rolling down\nher cheeks. He knew that she did not wish him to go. He could not bear\nto see her grief.\n\nHe stood still for a moment, thinking. Then he turned quickly and said,\n\"Mother, I have changed my mind. I will stay at home and do as you\nwish.\" Then he called to the black boy, who was waiting at the door,\nand said, \"Tom, run down to the shore and tell them not to put the\nchest in the boat. Send word to the captain not to wait for me, for\nI have changed my mind. I am not going to sea.\"\n\nWho has not heard of George Washington? It has been said of him that\nhe was the \"first in war, the first in peace, and first in the hearts\nof his countrymen.\" He was our most famous president. He has been\ncalled the Father of his Country.",
+            "score": 0.47378720222652015,
+            "metadata": {
+              "page": 17,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "n became a man, he did not forget his experiment with\nthe old fishing boat. He kept on, planning and thinking and working,\nuntil at last he succeeded in making a boat with paddle wheels that\ncould be run by steam.\n\nHe is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.6360271546795313,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "doer, and with Washington he helped\nto make our country free. His life was such that no man could ever\nsay, \"Ben Franklin has wronged me.\"",
+            "score": 0.6661050691681083,
+            "metadata": {
+              "page": 6,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q16",
+        "question": "Tại sao Elihu Burritt cố tình vi phạm quy định không được nói chuyện trong lớp vào đúng thời điểm sắp tan học?",
+        "split": "test",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": " sorry that\nshe should suffer for so small a fault. The boys looked at her and\nwondered if the master would really be as good as his word.\n\nThe clock kept on ticking. It lacked only one minute till the bell\nwould strike the time for dismissal. What a shame that dear, gentle\nLucy should be punished for all those unruly boys and girls!\n\nThen, suddenly, an awkward half-grown boy who sat right in front of\nthe master's desk turned squarely around and whispered to Tommy Jones,\nthree desks away.\n\nEverybody saw him. Little Lucy Martin saw him through her tears, but\nsaid nothing. Everybody was astonished, for that boy was the best\nscholar in the school, and he had never been known to break a rule.\n\nIt lacked only half a minute now. The awkward boy turned again and\nwhispered so loudly that even the master could not help hearing:\n\"Tommy, you deserve a thrashing!\"\n\n\"Elihu Burritt, take your place on the floor,\" said the master sternly.\nThe awkward boy stepped out quickly, and little Lucy Martin returned\nto her seat sobbing. At the same moment the bell struck and school was\ndismissed.\n\nAfter all the others had gone home, the master took down his long birch\nrod and said: \"Elihu, I suppose I must be as good as my word. But tell\nme why you so deliberately broke the rule against whispering.\"\n\n\"I did it to save little Lucy,\" said the awkward boy, standing up very\nstraight and brave. \"I could not bear to see her punished.\"\n\n\"Elihu, you may go home,\" said the master.\n\nAll this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.5598699428376821,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "\"Boys, what did I tell you?\"\n\nThe schoolmaster spoke angrily. He was in trouble because his scholars\nwould not study. Whenever his back was turned, they were sure to begin\nwhispering to one another.\n\n\"Girls, stop your whispering, I say.\"\n\nBut still they would whisper, and he could not prevent it. The\nafternoon was half gone, and the trouble was growing. Then the master\nthought of a plan.\n\n\"Children,\" he said, \"we are going to play a new game. The next one\nthat whispers must come out and stand in the middle of the floor. He\nmust stand there until he sees some one else whisper. Then he will\ntell me, and the one whom he names must come and take his place. He,\nin turn, will watch and report the first one that he sees whisper. And\nso we will keep the game going till it is time for school to be\ndismissed. The boy or girl who is standing at that time will be\npunished for all of you.\"\n\n\"What will the punishment be, Mr. Johnson?\" asked a bold, bad boy. \"A\ngood thrashing,\" answered the master. He was tired, he was vexed, he\nhardly knew what he said.\n\nThe children thought the new game was very funny. First, Tommy Jones\nwhispered to Billy Brown and was at once called out to stand on the\nfloor. Within less than two minutes, Billy saw Mary Green whispering,\nand she had to take his place. Mary looked around and saw Samuel Miller\nasking his neighbor for a pencil, and Samuel was called. And so the\nfun went on until the clock showed that it lacked only ten minutes\ntill school would be dismissed.\n\nThen all became very good and very careful, for no one wished to be\nstanding at the time of dismissal. They knew that the master would be\nas good as his word.  The clock ticked loudly, and Tommy Jones, who\nwas standing up for the fourth time, began to feel very uneasy. He\nstood on one leg and then on the other, and watched very closely; but\nnobody whispered. Could it be possible that he would receive that\nthrashing? Suddenly, to his great joy he saw little Lucy Martin lean\nover her desk and whisper to the girl in front of her. Now Lucy was\nthe pet of the school. Everybody loved her, and this was the first\ntime she had whispered that day. But Tommy didn't care for that. He\nwished to escape the punishment, and so he called out, \"Lucy Martin!\"\nand went proudly to his seat.\n\nLittle Lucy had not meant to whisper. There was something which she\nwished very much to know before going home, and so, without thinking,\nshe had leaned over and whispered just three little words. With tears\nin her eyes she went out and stood in the whisperer's place.\n\n[Illustration]\n\nShe was very much ashamed and hurt, for it was the first time that she\nhad ever been in disgrace at school. The other girls felt sorry that\nshe should suffer for so small a fault. The boys looked at her and\nwondered if the master would really be as good as his word.\n\nThe clock kept on ticking. It lacked only one minute till the bell\nwould strike the time for dismissal. What a shame that dear, gentle\nLucy should be punished f",
+            "score": 0.712536938551645,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Listen, and I will tell you of the famous dark day in Connecticut. It\nwas in the month of May, more than a hundred years ago.\n\nThe sun rose bright and fair, and the morning was without a cloud. The\nair was very still. There was not a breath of wind to stir the young\nleaves on the trees.\n\nThen, about the middle of the day, it began to grow dark. The sun was\nhidden. A black cloud seemed to cover the earth.\n\nThe birds flew to their nests. The chickens went to roost. The cows\ncame home from the pasture and stood mooing at the gate. It grew so\ndark that the people could not see their way along the streets.\n\nThen everybody began to feel frightened. \"What is the matter? What is\ngoing to happen?\" each one asked of another. The children cried. The\ndogs howled. The women wept, and some of the men prayed.\n\n\"The end of the world has come!\" cried some; and they ran about in the\ndarkness.\n\n\"This is the last great day!\" cried others; and they knelt down and\nwaited.\n\nIn the old statehouse, the wise men of Connecticut were sitting. They\nwere men who made the laws, and much depended upon their wisdom.\n\n[Illustration]\n\nWhen the darkness came, they too began to be alarmed. The gloom was\nterrible.\n\n\"It is the day of the Lord.\" said one.\n\n\"No use to make laws,\" said another, \"for they will never be needed.\"\n\n\"I move that we adjourn,\" said a third.\n\nThen up from his seat rose Abraham Davenport.\n\nHis voice was clear and strong, and all knew that he, at least, was\nnot afraid.\n\n\"This may be the last great day,\" he said. \"I do not know whether the\nend of the world has come or not. But I am sure that it is my duty to\nstand at my post as long as I live. So, let us go on with the work\nthat is before us. Let the candles be lighted.\"\n\nHis words put courage into every heart. The candles were brought in.\nThen with his strong face aglow in their feeble light, he made a speech\nin favor of a law to help poor fishermen.\n\nAnd as he spoke, the other lawmakers listened in silence till the\ndarkness began to fade and the sky grew bright again.\n\nThe people of Connecticut still remember Abraham Davenport, because\nhe was a wise judge and a brave lawmaker. The poet Whittier has written\na poem about him, which you will like to hear.",
+            "score": 0.7632675115050913,
+            "metadata": {
+              "page": 36,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q17",
+        "question": "Vì sao Alfred là người duy nhất trong bốn anh em muốn học đọc để có được cuốn sách mà mẹ đưa ra?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "I\n\nA thousand years ago boys and girls did not learn to read. Books were\nvery scarce and very precious, and only a few men could read them.\n\nEach book was written with a pen or a brush. The pictures were painted\nby hand, and some of them were very beautiful. A good book would\nsometimes cost as much as a good house.\n\nIn those times there were even some kings who could not read. They\nthought more of hunting and fighting than of learning.\n\nThere was one such king who had four sons, Ethelbald, Ethelbert,\nEthelred, and Alfred.[Footnote: Eth'el bald, Eth'el bert, Eth'el red,\nAl'fred.] The three older boys were sturdy, half-grown lads; the\nyoungest, Alfred, was a slender, fair-haired child.\n\nOne day when they were with their mother, she showed them a wonderful\nbook that some rich friend had given her. She turned the leaves and\nshowed them the strange letters. She showed them the beautiful\npictures, and told them how they had been drawn and painted.\n\nThey admired the book very much, for they had never seen anything like\nit. \"But the best part of it is the story which it tells,\" said their\nmother. \"If you could only read, you might learn that story and enjoy\nit. Now I have a mind to give this book to one of you\"\n\n\"Will you give it to me, mother?\" asked little Alfred.\n\n\"I will give it to the one who first learns to read in it\" she\nanswered.\n\n\"I am sure I would rather have a good bow with arrows\" said Ethelred.\n\n\"And I would rather have a young hawk that has been trained to hunt\"\nsaid Ethelbert.\n\n\"If I were a priest or a monk\" said Ethelbald, \"I would learn to read.\nBut I am a prince, and it is foolish for princes to waste their time\nwith such things.\"\n\n\"But I should like to know the story which this book tells,\" said\nAlfred.\n\nII\n\nA few weeks passed by. Then, one morning, Alfred went into his mother's\nroom with a smiling, joyous face.\n\n\"Mother,\" he said, \"will you let me see that beautiful book again?\"\n\nHis mother unlocked her cabinet and took the precious volume from its\nplace of safe keeping.\n\nAlfred opened it with careful fingers. Then he began with the first\nword on the first page and read the first story aloud without making\none mistake.\n\n\"O my child, how did you learn to do that?\" cried his mother.\n\n\"I asked the monk, Brother Felix, to teach me,\" said Alfred. \"And every\nday since you showed me the book, he has given me a lesson. It was no\neasy thing to learn these letters and how they are put together to\nmake words. Now, Brother Felix says I can read almost as well as\nhe.\"\n\n\"How wonderful!\" said his mother.\n\n\"How foolish!\" said Ethelbald.\n\n[Illustration]\n\n\"You will be a good monk when you grow up,\" said Ethelred, with a\nsneer.\n\nBut his mother kissed him and gave him the beautiful book. \"The prize\nis yours, Alfred,\" she said. \"I am sure that whether you grow up to\nbe a monk or a king, you will be a wise and noble man.\"\n\nAnd Alfred did grow up to become the wisest and noblest king that\nEngland ever had. In history he is called Alfred the Great.\n\n\"READ, ",
+            "score": 0.5005882084233917,
+            "metadata": {
+              "page": 25,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": " gave him the beautiful book. \"The prize\nis yours, Alfred,\" she said. \"I am sure that whether you grow up to\nbe a monk or a king, you will be a wise and noble man.\"\n\nAnd Alfred did grow up to become the wisest and noblest king that\nEngland ever had. In history he is called Alfred the Great.\n\n\"READ, AND YOU WILL KNOW\"\n\n\"Mother, what are the clouds made of? Why does the rain fall? Where\ndoes all the rain water go? What good does it do?\"\n\nLittle William Jones was always asking questions.\n\n\"I want to know,\" he said; \"I want to know everything.\"\n\nAt first his mother tried to answer all his questions. But after he\nhad learned to read, she taught him to look in books for that which\nhe wished to know.\n\n\"Mother, what makes the wind blow?\"\n\n\"Read, and you will know, my child.\"\n\n\"Who lives on the other side of the world?\"\n\n\"Read, and you will know.\"\n\n\"Why is the sky so blue?\"\n\n\"Read, and you will know.\"\n\n\"Oh, mother, I would like to know everything.\"\n\n\"You can never know everything, my child. But you can learn many things\nfrom books.\"\n\n\"Yes, mother, I will read and then I will know.\"\n\nHe was a very little boy, but before he was three years old he could\nread quite well. When eight years of age he was the best scholar at\nthe famous school at Harrow. He was always reading, learning,\ninquiring.\n\n\"I want to know; I want to know,\" he kept saying.\n\n\"Read, and you will know,\" said his mother. \"Read books that are true.\nRead about things that are beautiful and good. Read in order to become\nwise.\n\n\"Do not waste your time in reading foolish books. Do not read bad\nbooks, they will make you bad. No book is worth reading that does not\nmake you better or wiser.\"\n\nAnd so William Jones went on reading and learning. He became one of\nthe most famous scholars in the world. The king of England made him\na knight and called him Sir William Jones. Sir William Jones lived\nnearly two hundred years ago. He was noted for his great knowledge,\nthe most of which he had obtained from books. It is said that he could\nspeak and write forty languages.",
+            "score": 0.5866465950900566,
+            "metadata": {
+              "page": 25,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "There was a caliph of Persia whose name was Al Mamoun. [Footnote: Al\nMam'oun] He had two sons whom he wished to become honest and noble\nmen. So he employed a wise man whose name was Al Farra to be their\nteacher. One day, after lesson hours, Al Farra rose to go out of the\nhouse. The two boys saw him and ran to fetch his shoes. For in that\ncountry, people never wear shoes in the house, but take them off at\nthe door. The two boys ran for the teacher's shoes, and each claimed\nthe honor of carrying them to him. But they dared not quarrel and at\nlast agreed that each should carry one shoe. Thus the honor would be\ndivided. When the caliph heard of this he sent for Al Farra and asked\nhim, \"Who is the most honored of men?\"\n\nThe teacher answered, \"I know of no man who is more honored than\nyourself.\"\n\n\"No, no,\" said the caliph. \"It is the man who rose to go out, and two\nyoung princes contended for the honor of giving him his shoes but at\nlast agreed that each should offer him one.\"\n\nAl Farra answered, \"Sir, I should have forbidden them to do this, but\nI feared to discourage them. I hope that I shall never do anything to\nmake them careless of their duties.\"\n\n\"Well,\" said the caliph, \"if you had forbidden them thus to honor you,\nI should have declared you in the wrong. They did nothing that was\nbeneath the dignity of princes. Indeed, they honored themselves by\nhonoring you.\" Al Farra bowed low, but said nothing; and the caliph\nwent on. \"No young man nor boy,\" said he, \"can be so high in rank as\nto neglect three great duties: he must respect his ruler, he must love\nand obey his father, and he must honor his teacher.\"\n\nThen he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.7189988855305397,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q18",
+        "question": "Theo lời dạy của vua Al Mamoun, ba nghĩa vụ mà một người trẻ tuổi không được phép bỏ qua là gì?",
+        "split": "test",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "There was a caliph of Persia whose name was Al Mamoun. [Footnote: Al\nMam'oun] He had two sons whom he wished to become honest and noble\nmen. So he employed a wise man whose name was Al Farra to be their\nteacher. One day, after lesson hours, Al Farra rose to go out of the\nhouse. The two boys saw him and ran to fetch his shoes. For in that\ncountry, people never wear shoes in the house, but take them off at\nthe door. The two boys ran for the teacher's shoes, and each claimed\nthe honor of carrying them to him. But they dared not quarrel and at\nlast agreed that each should carry one shoe. Thus the honor would be\ndivided. When the caliph heard of this he sent for Al Farra and asked\nhim, \"Who is the most honored of men?\"\n\nThe teacher answered, \"I know of no man who is more honored than\nyourself.\"\n\n\"No, no,\" said the caliph. \"It is the man who rose to go out, and two\nyoung princes contended for the honor of giving him his shoes but at\nlast agreed that each should offer him one.\"\n\nAl Farra answered, \"Sir, I should have forbidden them to do this, but\nI feared to discourage them. I hope that I shall never do anything to\nmake them careless of their duties.\"\n\n\"Well,\" said the caliph, \"if you had forbidden them thus to honor you,\nI should have declared you in the wrong. They did nothing that was\nbeneath the dignity of princes. Indeed, they honored themselves by\nhonoring you.\" Al Farra bowed low, but said nothing; and the caliph\nwent on. \"No young man nor boy,\" said he, \"can be so high in rank as\nto neglect three great duties: he must respect his ruler, he must love\nand obey his father, and he must honor his teacher.\"\n\nThen he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.5945127859413628,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "I\n\nA thousand years ago boys and girls did not learn to read. Books were\nvery scarce and very precious, and only a few men could read them.\n\nEach book was written with a pen or a brush. The pictures were painted\nby hand, and some of them were very beautiful. A good book would\nsometimes cost as much as a good house.\n\nIn those times there were even some kings who could not read. They\nthought more of hunting and fighting than of learning.\n\nThere was one such king who had four sons, Ethelbald, Ethelbert,\nEthelred, and Alfred.[Footnote: Eth'el bald, Eth'el bert, Eth'el red,\nAl'fred.] The three older boys were sturdy, half-grown lads; the\nyoungest, Alfred, was a slender, fair-haired child.\n\nOne day when they were with their mother, she showed them a wonderful\nbook that some rich friend had given her. She turned the leaves and\nshowed them the strange letters. She showed them the beautiful\npictures, and told them how they had been drawn and painted.\n\nThey admired the book very much, for they had never seen anything like\nit. \"But the best part of it is the story which it tells,\" said their\nmother. \"If you could only read, you might learn that story and enjoy\nit. Now I have a mind to give this book to one of you\"\n\n\"Will you give it to me, mother?\" asked little Alfred.\n\n\"I will give it to the one who first learns to read in it\" she\nanswered.\n\n\"I am sure I would rather have a good bow with arrows\" said Ethelred.\n\n\"And I would rather have a young hawk that has been trained to hunt\"\nsaid Ethelbert.\n\n\"If I were a priest or a monk\" said Ethelbald, \"I would learn to read.\nBut I am a prince, and it is foolish for princes to waste their time\nwith such things.\"\n\n\"But I should like to know the story which this book tells,\" said\nAlfred.\n\nII\n\nA few weeks passed by. Then, one morning, Alfred went into his mother's\nroom with a smiling, joyous face.\n\n\"Mother,\" he said, \"will you let me see that beautiful book again?\"\n\nHis mother unlocked her cabinet and took the precious volume from its\nplace of safe keeping.\n\nAlfred opened it with careful fingers. Then he began with the first\nword on the first page and read the first story aloud without making\none mistake.\n\n\"O my child, how did you learn to do that?\" cried his mother.\n\n\"I asked the monk, Brother Felix, to teach me,\" said Alfred. \"And every\nday since you showed me the book, he has given me a lesson. It was no\neasy thing to learn these letters and how they are put together to\nmake words. Now, Brother Felix says I can read almost as well as\nhe.\"\n\n\"How wonderful!\" said his mother.\n\n\"How foolish!\" said Ethelbald.\n\n[Illustration]\n\n\"You will be a good monk when you grow up,\" said Ethelred, with a\nsneer.\n\nBut his mother kissed him and gave him the beautiful book. \"The prize\nis yours, Alfred,\" she said. \"I am sure that whether you grow up to\nbe a monk or a king, you will be a wise and noble man.\"\n\nAnd Alfred did grow up to become the wisest and noblest king that\nEngland ever had. In history he is called Alfred the Great.\n\n\"READ, ",
+            "score": 0.6926705981319403,
+            "metadata": {
+              "page": 25,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": " sorry that\nshe should suffer for so small a fault. The boys looked at her and\nwondered if the master would really be as good as his word.\n\nThe clock kept on ticking. It lacked only one minute till the bell\nwould strike the time for dismissal. What a shame that dear, gentle\nLucy should be punished for all those unruly boys and girls!\n\nThen, suddenly, an awkward half-grown boy who sat right in front of\nthe master's desk turned squarely around and whispered to Tommy Jones,\nthree desks away.\n\nEverybody saw him. Little Lucy Martin saw him through her tears, but\nsaid nothing. Everybody was astonished, for that boy was the best\nscholar in the school, and he had never been known to break a rule.\n\nIt lacked only half a minute now. The awkward boy turned again and\nwhispered so loudly that even the master could not help hearing:\n\"Tommy, you deserve a thrashing!\"\n\n\"Elihu Burritt, take your place on the floor,\" said the master sternly.\nThe awkward boy stepped out quickly, and little Lucy Martin returned\nto her seat sobbing. At the same moment the bell struck and school was\ndismissed.\n\nAfter all the others had gone home, the master took down his long birch\nrod and said: \"Elihu, I suppose I must be as good as my word. But tell\nme why you so deliberately broke the rule against whispering.\"\n\n\"I did it to save little Lucy,\" said the awkward boy, standing up very\nstraight and brave. \"I could not bear to see her punished.\"\n\n\"Elihu, you may go home,\" said the master.\n\nAll this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.7224247353211295,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q19",
+        "question": "Điều gì trong hành động của Otanes khiến thủ lĩnh bọn cướp quyết định trả lại vàng và bảo vệ cậu trên đường đi?",
+        "split": "test",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "In Persia, when Cyrus the Great was king, boys were taught to tell the\ntruth. This was one of their first lessons at home and at school.\n\n\"None but a coward will tell a falsehood,\" said the father of young\nOtanes. [Footnote: Otanes (_pro._ o ta'n ez).]\n\n\"Truth is beautiful. Always love it,\" said his mother.\n\nWhen Otanes was twelve years old, his parents wished to send him to\na distant city to study in a famous school that was there. It would\nbe a long journey and a dangerous one. So it was arranged that the boy\nshould travel with a small company of merchants who were going\nto the same place. \"Good-by, Otanes! Be always brave and truthful,\"\nsaid his father. \"Farewell, my child! Love that which is beautiful.\nDespise that which is base,\" said his mother.\n\nThe little company began its long journey. Some of the men rode on\ncamels, some on horses. They went but slowly, for the sun was hot and\nthe way was rough.\n\nSuddenly, towards evening, a band of robbers swooped down upon them.\nThe merchants were not fighting men. They could do nothing but give\nup all their goods and money.\n\n\"Well, boy, what have you got?\" asked one of the robbers, as he pulled\nOtanes from his horse.\n\n\"Forty pieces of gold\" answered the lad.\n\nThe robber laughed. He had never heard of a boy with so much money as\nthat.\n\n\"That is a good story\" he said. \"Where do you carry your gold?\"\n\n\"It is in my hat, underneath the lining,\" answered Otanes.\n\n\"Oh, well! You can't make me believe that,\" said the robber; and he\nhurried away to rob one of the rich merchants.\n\nSoon another came up and said, \"My boy, do you happen to have any gold\nabout you?\"\n\n\"Yes! Forty pieces, in my hat, said Otanes.\n\n\"You are a brave lad to be joking with robbers\" said the man; and he\nalso hurried on to a more promising field.\n\nAt length the chief of the band called to Otanes and said, \"Young\nfellow, have you anything worth taking?\"\n\nOtanes answered, \"I have already told two of your men that I have forty\npieces of gold in my hat. But they wouldn't believe me.\"\n\n\"Take off your hat,\" said the chief.\n\n[Illustration]\n\nThe boy obeyed. The chief tore out the lining and found the gold hidden\nbeneath it.\n\n\"Why did you tell us where to find it?\" he asked. \"No one would have\nthought that a child like you had gold about him.\"\n\n\"If I had answered your questions differently, I should have told a\nlie,\" said Otanes; \"and none but cowards tell lies\"\n\nThe robber chief was struck by this answer. He thought of the number\nof times that he himself had been a coward. Then he said, \"You are a\nbrave boy, and you may keep your gold. Here it is. Mount your horse,\nand my own men will ride with you and see that you reach the end of\nyour journey in safety.\"\n\nOtanes, in time, became one of the famous men of his country. He was\nthe advisor and friend of two of the kings who succeeded Cyrus.",
+            "score": 0.5817089051391544,
+            "metadata": {
+              "page": 28,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "y.\"\n\nOtanes, in time, became one of the famous men of his country. He was\nthe advisor and friend of two of the kings who succeeded Cyrus.",
+            "score": 0.5893903514921341,
+            "metadata": {
+              "page": 28,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "umble.\n\nCoriolanus would not listen to them. He drove them back with threats,\nand told them that they should expect no mercy from him; but he agreed\nto give them three more days to consider the matter.\n\nThe next day, all the priests and learned men went out to beg for\nmercy. These were dressed in their long flowing robes, and all knelt\nhumbly before him. But he drove them back with scornful words.\n\nOn the last day, the great army which Coriolanus had led from Antium\nwas drawn up in battle array. It was ready to march upon the city and\ndestroy it.\n\nAll Rome was in terror. There seemed to be no way to escape the anger\nof this furious man.\n\nThen the rulers, in their despair, said, \"Let us go up to the house\nwhere Coriolanus used to live when he was one of us. His mother and\nhis wife are still there. They are noble women, and they love Rome.\nLet us ask them to go out and beg our enemy to have mercy upon us. His\nheart will be hard indeed if he can refuse his mother and his wife.\"\n\nThe two noble women were willing to do all that they could to save\ntheir city. So, leading his little children by the hand, they went out\nto meet Coriolanus. Behind them followed a long procession of the\nwomen of Rome. Coriolanus was in his tent. When he saw his mother and\nhis wife and his children, he was filled with joy. But when they made\nknown their errand, his face darkened, and he shook his head.\n\nFor a long time his mother pleaded with him. For a long time his wife\nbegged him to be merciful. His little children clung to his knees and\nspoke loving words to him.\n\nAt last, he could hold out no longer. \"O mother,\" he said, \"you have\nsaved your country, but have lost your son!\" Then he commanded his\narmy to march back to the city of Antium.\n\n[Illustration]\n\nRome was saved; but Coriolanus could never return to his home, his\nmother, his wife and children. He was lost to them.",
+            "score": 0.6594299068984165,
+            "metadata": {
+              "page": 32,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q20",
+        "question": "Tại sao vị vua trong câu chuyện A Lesson in Justice cho rằng đất nước của Alexander không xứng đáng nhận được những phước lành từ thiên nhiên?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_A_1",
+            "text": "Alexander [Footnote: Al ex an'der.] the king of Macedon, [Footnote:\nMacedon (pro. mas'e don).] wished to become the master of the whole\nworld. He led his armies through many countries. He plundered cities,\nhe burned towns, he destroyed thousands of lives.\n\nAt last, far in the East, he came to a land of which he had never\nheard. The people there knew nothing about war and conquest. Although\nthey were rich, they lived simply and were at peace with all the world.\n\nThe shah, or ruler of these people, went out to meet Alexander and\nwelcome him to their country. He led the great king to his palace and\nbegged that he would dine with him.\n\nWhen they were seated at the table the servants of the shah stood by\nto serve the meal. They brought in what seemed to be fruits, nuts,\ncakes, and other delicacies; but when Alexander would eat he found\nthat everything was made of gold.\n\n\"What!\" said he, \"do you eat gold in this country?\"\n\n\"We ourselves eat only common food,\" answered the shah. \"But we have\nheard that it was the desire for gold which caused you to leave your\nown country; and so, we wish to satisfy your appetite.\"\n\n\"It was not for gold that I came here,\" said Alexander. \"I came to\nlearn the customs of your people.\"\n\n\"Very well, then,\" said the shah, \"stay with me a little while and\nobserve what you can.\"\n\nWhile the shah and the king were talking, two countrymen came in. \"My\nlord,\" said one, \"we have had a disagreement, and wish you to settle\nthe matter.\"\n\n\"Tell me about it,\" said the shah.\n\n\"Well, it is this way,\" answered the man: \"I bought a piece of ground\nfrom this neighbor of mine, and paid him a fair price for it.\nYesterday, when I was digging in it, I found a box full of gold and\njewels. This treasure does not belong to me, for I bought only the\nground; but when I offered it to my neighbor he refused it.\"\n\nThe second man then spoke up and said, \"It is true that I sold him the\nground, but I did not reserve anything he might find in it. The\ntreasure is not mine, and therefore I am unwilling to take it.\"\n\nThe shah sat silent for a while, as if in thought. Then he said to the\nfirst man, \"Have you a son?\"\n\n\"Yes, a young man of promise,\" was the answer.\n\nThe shah turned to the second man: \"Have you a daughter?\"\n\n\"I have,\" answered the man, \"--a beautiful girl.\"\n\n\"Well, then, this is my judgment. Let the son marry the daughter, if\nboth agree, and give them the treasure as a wedding portion.\"\n\nAlexander listened with great interest. \"You have judged wisely and\nrightly,\" said he to the shah, \"but in my own country we should have\ndone differently.\"\n\n\"What would you have done?\"\n\n\"Well, we should have thrown both men into prison, and the treasure\nwould have been given to the king.\"\n\n\"And is that what you call justice?\" asked the shah.\n\n\"We call it policy,\" said Alexander.\n\n\"Then let me ask you a question,\" said the shah. \"Does the sun shine\nin your country?\"\n\n\"Surely.\"\n\n\"Does the rain fall there?\"\n\n\"Oh, yes!\"\n\n\"Is it possible! But are there any gentle, harml",
+            "score": 0.5437382433349007,
+            "metadata": {
+              "page": 29,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "iven to the king.\"\n\n\"And is that what you call justice?\" asked the shah.\n\n\"We call it policy,\" said Alexander.\n\n\"Then let me ask you a question,\" said the shah. \"Does the sun shine\nin your country?\"\n\n\"Surely.\"\n\n\"Does the rain fall there?\"\n\n\"Oh, yes!\"\n\n\"Is it possible! But are there any gentle, harmless animals in your\nfields?\"\n\n\"A great many.\"\n\n\"Then,\" said the shah, \"it must be that the sun shines and the rain\nfalls for the sake of these poor beasts; for men so unjust do not\ndeserve such blessings.\"",
+            "score": 0.5478371514993827,
+            "metadata": {
+              "page": 29,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_A_2",
+            "text": "s and call\nmamma to come and see it.\"\n\nThe beast was very close to him now. He could see its shadow as he\npeeped out through the clusters of leaves. His breath came fast. He\nplanted his feet firmly and made ready to spring.\n\n\"How proud mamma will be of her brave boy!\"\n\nAh! there was the wolf! He saw its shaggy head and big round eyes. He\nleaped from his hiding place and clasped it round its neck.\n\nIt did not try to bite or scratch. It did not even growl. But it jumped\nquickly forward and threw Gilbert upon the ground. Then it ran out\ninto the open space and stopped to gaze at him.\n\nGilbert was soon on his feet again. He was not hurt at all. He looked\nat the beast, and--what do you think it was?\n\n[Illustration]\n\nIt was not a wolf. It was only a pet calf that had come there to browse\namong the bushes.\n\nThe boy felt very much ashamed. He hurried back to the pathway, and\nthen ran to his mother. Tears were in his eyes; but he tried to look\nbrave. \"O Gilbert, where have you been?\" said his mother.\n\nThen he told her all that had happened. His lips quivered and he began\nto cry.\n\n\"Never mind, my dear,\" said his mother. \"You were very brave, and it\nis lucky that the wolf was not there. You faced what you thought was\na great danger, and you were not afraid. You are my hero.\"\n\nWhen the American people were fighting to free themselves from the\nrule of the king of England, the Marquis de Lafayette helped them with\nmen and money. He was the friend of Washington. His name is remembered\nin our country as that of a brave and noble man.",
+            "score": 0.6835763681454299,
+            "metadata": {
+              "page": 12,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "strategy_B": {
+    "summary": {
+      "total": 20,
+      "hit_1_rate": 10.0,
+      "hit_3_rate": 10.0,
+      "hit_1_n": 2,
+      "hit_3_n": 2
+    },
+    "chunk_count": 47,
+    "traces": [
+      {
+        "question_id": "q01",
+        "question": "Vì sao Aesop chọn bó hành lý lớn nhất khi chủ nhân yêu cầu các nô lệ lựa chọn?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Many other stories are told of this wonderful slave. His master was\nso much pleased with him that he gave him his freedom. Many great men\nwere glad to call him their friend, and even kings asked his advice\nand were amused by his fables.",
+            "score": 0.6854566356540397,
+            "metadata": {
+              "page": 34,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The cannon were roaring, the balls were flying, the battle was raging.\nBut amid all the turmoil and danger, the little birds chirped happily\nin the safe shelter where the great general, Robert E. Lee, had placed\nthem. \"He prayeth best, who loveth best All things both great and\nsmall; For the dear God who loveth us, He made and loveth all.\"",
+            "score": 0.7429335252365209,
+            "metadata": {
+              "page": 3,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.7678497874854228,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q02",
+        "question": "Những con chuột đã phản ứng như thế nào khi con chuột già đề xuất đeo chuông vào cổ con mèo?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Not I! not I!\" said all the Mice together. And they scampered away\nto their holes.",
+            "score": 0.7832337736921147,
+            "metadata": {
+              "page": 35,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Ah! this picture is a failure,\" he said. \"For if the boy had been as\nwell painted as the cherries, the birds would have been afraid to come\nnear him.\"",
+            "score": 0.8560132001555564,
+            "metadata": {
+              "page": 19,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.8759738865053626,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q03",
+        "question": "Abraham Davenport đã làm gì để các nhà lập pháp tiếp tục công việc khi bầu trời đột nhiên tối đen?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The people of Connecticut still remember Abraham Davenport, because\nhe was a wise judge and a brave lawmaker. The poet Whittier has written\na poem about him, which you will like to hear.",
+            "score": 0.6041357274939574,
+            "metadata": {
+              "page": 36,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Abraham Lincoln afterwards became very famous as a lawyer and\nstatesman. He was elected president. Next to Washington he was the\ngreatest American.",
+            "score": 0.7549679166415252,
+            "metadata": {
+              "page": 2,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "He is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.7676566036966341,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q04",
+        "question": "Tại sao John Randolph cuối cùng phải mất nhiều thời gian hơn dự kiến để đến Lynchburg?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "When the American people were fighting to free themselves from the\nrule of the king of England, the Marquis de Lafayette helped them with\nmen and money. He was the friend of Washington. His name is remembered\nin our country as that of a brave and noble man.",
+            "score": 0.7398291903559895,
+            "metadata": {
+              "page": 12,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "At Lexington, not far from Concord, there was a sharp fight in which\nseveral men were killed. This, in history, is called the Battle of\nLexington. It was the beginning of the war called the Revolutionary\nWar. But the king's soldiers did not find the gunpowder. They were\nglad enough to march back without it. All along the road the farmers\nwere waiting for them. It seemed as if every man in the country was\nafter them. And they did not feel themselves safe until they were once\nmore in Boston.",
+            "score": 0.7452494708092904,
+            "metadata": {
+              "page": 11,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"No,\" answered Mr. Jefferson. \"A farmer is as good as any other man;\nand where there's no room for a farmer, there can be no room for me.\"",
+            "score": 0.7657672494615293,
+            "metadata": {
+              "page": 15,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q05",
+        "question": "Sự kiện có thật nào đã truyền cảm hứng cho Daniel Defoe viết câu chuyện Robinson Crusoe?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "This is the story which Mr. Defoe wrote. Perhaps he would not have\nthought of it, had he not first heard the true story of Alexander\nSelkirk.",
+            "score": 0.4847618248664296,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Many other stories are told of this wonderful slave. His master was\nso much pleased with him that he gave him his freedom. Many great men\nwere glad to call him their friend, and even kings asked his advice\nand were amused by his fables.",
+            "score": 0.7425140826612903,
+            "metadata": {
+              "page": 34,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "One of the best things to be said of the stories in this volume is\nthat, although they are not biographical, they are about real persons\nwho actually lived and performed their parts in the great drama of the\nworld's history. Some of these persons were more famous than others,\nyet all have left enduring \"footprints on the sands of time\" and their\nnames will not cease to be remembered. In each of the stories there\nis a basis of truth and an ethical lesson which cannot fail to have\na wholesome influence; and each possesses elements of interest which,\nit is believed, will go far towards proving the fallibility of the\ndoctrine that children find delight only in tales of the imaginative\nand unreal. The fact that there are a few more than fifty famous people\nmentioned in the volume may be credited to the author's wish to give\ngood measure.",
+            "score": 0.7435695779054379,
+            "metadata": {
+              "page": 1,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q06",
+        "question": "Vì sao vua Frederick quyết định không đánh thức Carl một cách thô bạo khi phát hiện cậu đang ngủ?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.7580974548263589,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Richard the Third was one of England's worst kings. Henry, the Duke\nof Richmond, made war upon him and defeated him in a great battle.",
+            "score": 0.7950072957967181,
+            "metadata": {
+              "page": 14,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.81475112940247,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q07",
+        "question": "Người phụ nữ trong trang trại đã giúp Robert the Bruce như thế nào khi ông đang bị quân địch truy đuổi?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "When the American people were fighting to free themselves from the\nrule of the king of England, the Marquis de Lafayette helped them with\nmen and money. He was the friend of Washington. His name is remembered\nin our country as that of a brave and noble man.",
+            "score": 0.7473007266168301,
+            "metadata": {
+              "page": 12,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.7572795853153403,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "This is the story which Mr. Defoe wrote. Perhaps he would not have\nthought of it, had he not first heard the true story of Alexander\nSelkirk.",
+            "score": 0.7661710803613442,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q08",
+        "question": "John Marshall muốn truyền đạt điều gì khi tự mình mang con gà tây đến nhà cho người thanh niên Johnson?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Oh, no!\" said another man who had seen and heard it all. \"Judge\nMarshall carried the turkey simply because he wished to be kind and\nobliging. That is his way.\"",
+            "score": 0.627166620117573,
+            "metadata": {
+              "page": 41,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The lesson in manners was not forgotten; for, always after that, the\nman was very polite when he brought his presents. And the Dean also\ntook the hint; for he always remembered to give the man a \"tip\" for\nhis trouble. Jonathan Swift, often called Dean Swift, was famous as\na writer on many subjects. Among other books he wrote \"Gulliver's\nTravels,\" which you, perhaps, will read some time.",
+            "score": 0.7480577725820587,
+            "metadata": {
+              "page": 16,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"No,\" answered Mr. Jefferson. \"A farmer is as good as any other man;\nand where there's no room for a farmer, there can be no room for me.\"",
+            "score": 0.7607360569776922,
+            "metadata": {
+              "page": 15,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q09",
+        "question": "Robert Fulton và Christopher đã cải tiến chiếc thuyền đánh cá bằng cách nào để không cần dùng sào hoặc mái chèo thông thường?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "He is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.6229052299449012,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "All this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.8161233241114662,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Daniel Webster lived to become a famous orator and a great statesman.\nHe was honored at home and abroad.",
+            "score": 0.8345375120303663,
+            "metadata": {
+              "page": 23,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q10",
+        "question": "Người làm vườn đã giải thích như thế nào về việc giữ lại mười đồng vàng trong chiếc túi mà ông tìm thấy?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.7423847381514046,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.7894910404517927,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The lesson in manners was not forgotten; for, always after that, the\nman was very polite when he brought his presents. And the Dean also\ntook the hint; for he always remembered to give the man a \"tip\" for\nhis trouble. Jonathan Swift, often called Dean Swift, was famous as\na writer on many subjects. Among other books he wrote \"Gulliver's\nTravels,\" which you, perhaps, will read some time.",
+            "score": 0.8379179888457463,
+            "metadata": {
+              "page": 16,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q11",
+        "question": "Bài học mà Benjamin Franklin rút ra sau khi dùng toàn bộ số tiền mẹ cho để mua chiếc còi là gì?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Every boy and girl should remember the name of Benjamin Franklin. He\nwas a great thinker and a great doer, and with Washington he helped\nto make our country free. His life was such that no man could ever\nsay, \"Ben Franklin has wronged me.\"",
+            "score": 0.6060496347333721,
+            "metadata": {
+              "page": 6,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "All this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.6912279097602635,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.7291305895915221,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q12",
+        "question": "Sirrah đã làm gì để bảo vệ đàn cừu trong cơn bão khiến James Hogg tưởng rằng mình đã mất toàn bộ đàn?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Rome was saved; but Coriolanus could never return to his home, his\nmother, his wife and children. He was lost to them.",
+            "score": 0.7730801488856874,
+            "metadata": {
+              "page": 32,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The cannon were roaring, the balls were flying, the battle was raging.\nBut amid all the turmoil and danger, the little birds chirped happily\nin the safe shelter where the great general, Robert E. Lee, had placed\nthem. \"He prayeth best, who loveth best All things both great and\nsmall; For the dear God who loveth us, He made and loveth all.\"",
+            "score": 0.7762760198366674,
+            "metadata": {
+              "page": 3,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Ah! this picture is a failure,\" he said. \"For if the boy had been as\nwell painted as the cherries, the birds would have been afraid to come\nnear him.\"",
+            "score": 0.8062586172627992,
+            "metadata": {
+              "page": 19,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q13",
+        "question": "Paul Revere đã sử dụng tín hiệu đèn như thế nào để biết quân Anh sẽ đi qua con đường nào?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "At Lexington, not far from Concord, there was a sharp fight in which\nseveral men were killed. This, in history, is called the Battle of\nLexington. It was the beginning of the war called the Revolutionary\nWar. But the king's soldiers did not find the gunpowder. They were\nglad enough to march back without it. All along the road the farmers\nwere waiting for them. It seemed as if every man in the country was\nafter them. And they did not feel themselves safe until they were once\nmore in Boston.",
+            "score": 0.6734979831994151,
+            "metadata": {
+              "page": 11,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "This happened when Israel Putnam was a young man. When the\nRevolutionary War began he was one of the first to hurry to Boston to\nhelp the people defend themselves against the British soldiers. He\nbecame famous as one of the bravest and best of the generals who fought\nto make our country free.",
+            "score": 0.7050449625608324,
+            "metadata": {
+              "page": 13,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "When the American people were fighting to free themselves from the\nrule of the king of England, the Marquis de Lafayette helped them with\nmen and money. He was the friend of Washington. His name is remembered\nin our country as that of a brave and noble man.",
+            "score": 0.7347248362711938,
+            "metadata": {
+              "page": 12,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q14",
+        "question": "Vì sao người thợ rèn đồng ý đóng ít đinh hơn mức cần thiết vào móng ngựa của nhà vua?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"I shall be glad to see what you can do,\" he said. \"Tomorrow, you shall\nbe the king's cupbearer.\"",
+            "score": 0.7795548007309044,
+            "metadata": {
+              "page": 26,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.790436737759789,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Oh, no!\" said another man who had seen and heard it all. \"Judge\nMarshall carried the turkey simply because he wished to be kind and\nobliging. That is his way.\"",
+            "score": 0.8013483773579242,
+            "metadata": {
+              "page": 41,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q15",
+        "question": "Điều gì khiến George Washington thay đổi quyết định lên tàu đi biển dù trước đó rất háo hức?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "He is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.666062153967472,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "When the American people were fighting to free themselves from the\nrule of the king of England, the Marquis de Lafayette helped them with\nmen and money. He was the friend of Washington. His name is remembered\nin our country as that of a brave and noble man.",
+            "score": 0.6892884679215973,
+            "metadata": {
+              "page": 12,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Who has not heard of George Washington? It has been said of him that\nhe was the \"first in war, the first in peace, and first in the hearts\nof his countrymen.\" He was our most famous president. He has been\ncalled the Father of his Country.",
+            "score": 0.6972750750916508,
+            "metadata": {
+              "page": 17,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q16",
+        "question": "Tại sao Elihu Burritt cố tình vi phạm quy định không được nói chuyện trong lớp vào đúng thời điểm sắp tan học?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "All this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.5840381702417418,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The people of Connecticut still remember Abraham Davenport, because\nhe was a wise judge and a brave lawmaker. The poet Whittier has written\na poem about him, which you will like to hear.",
+            "score": 0.7396134090225311,
+            "metadata": {
+              "page": 36,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The little boy's name was Edward Everett. He grew up to become a famous\nman and one of our greatest orators.",
+            "score": 0.7627361920455036,
+            "metadata": {
+              "page": 4,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q17",
+        "question": "Vì sao Alfred là người duy nhất trong bốn anh em muốn học đọc để có được cuốn sách mà mẹ đưa ra?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "All the school children in our country have heard of Henry W.\nLongfellow. He was the best loved of all our poets. He wrote \"The\nVillage Blacksmith,\" \"The Children's Hour,\" and many other beautiful\npieces which you will like to read and remember.",
+            "score": 0.711420679698788,
+            "metadata": {
+              "page": 5,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "All this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.7443757173800614,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.7690527074719843,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q18",
+        "question": "Theo lời dạy của vua Al Mamoun, ba nghĩa vụ mà một người trẻ tuổi không được phép bỏ qua là gì?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Every boy and girl should remember the name of Benjamin Franklin. He\nwas a great thinker and a great doer, and with Washington he helped\nto make our country free. His life was such that no man could ever\nsay, \"Ben Franklin has wronged me.\"",
+            "score": 0.727115094230355,
+            "metadata": {
+              "page": 6,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.727875598504411,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Many other stories are told of this wonderful slave. His master was\nso much pleased with him that he gave him his freedom. Many great men\nwere glad to call him their friend, and even kings asked his advice\nand were amused by his fables.",
+            "score": 0.7625450830673495,
+            "metadata": {
+              "page": 34,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q19",
+        "question": "Điều gì trong hành động của Otanes khiến thủ lĩnh bọn cướp quyết định trả lại vàng và bảo vệ cậu trên đường đi?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Otanes, in time, became one of the famous men of his country. He was\nthe advisor and friend of two of the kings who succeeded Cyrus.",
+            "score": 0.5851818750817721,
+            "metadata": {
+              "page": 28,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.6718259663819859,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Rome was saved; but Coriolanus could never return to his home, his\nmother, his wife and children. He was lost to them.",
+            "score": 0.6799601850343954,
+            "metadata": {
+              "page": 32,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q20",
+        "question": "Tại sao vị vua trong câu chuyện A Lesson in Justice cho rằng đất nước của Alexander không xứng đáng nhận được những phước lành từ thiên nhiên?",
+        "split": "test",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Then,\" said the shah, \"it must be that the sun shines and the rain\nfalls for the sake of these poor beasts; for men so unjust do not\ndeserve such blessings.\"",
+            "score": 0.6490477036001253,
+            "metadata": {
+              "page": 29,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "This is the story which Mr. Defoe wrote. Perhaps he would not have\nthought of it, had he not first heard the true story of Alexander\nSelkirk.",
+            "score": 0.6671285122433134,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          },
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Ah! this picture is a failure,\" he said. \"For if the boy had been as\nwell painted as the cherries, the birds would have been afraid to come\nnear him.\"",
+            "score": 0.7161966811165077,
+            "metadata": {
+              "page": 19,
+              "source": "Fifty Famous People",
+              "chapter": null,
+              "character": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "strategy_C": {
+    "summary": {
+      "total": 20,
+      "hit_1_rate": 10.0,
+      "hit_3_rate": 10.0,
+      "hit_1_n": 2,
+      "hit_3_n": 2
+    },
+    "chunk_count": 47,
+    "traces": [
+      {
+        "question_id": "q01",
+        "question": "Vì sao Aesop chọn bó hành lý lớn nhất khi chủ nhân yêu cầu các nô lệ lựa chọn?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Many other stories are told of this wonderful slave. His master was\nso much pleased with him that he gave him his freedom. Many great men\nwere glad to call him their friend, and even kings asked his advice\nand were amused by his fables.",
+            "score": 0.686842732603808,
+            "metadata": {
+              "page": 34,
+              "source": "Fifty Famous People",
+              "chapter": "A CLEVER SLAVE",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q02",
+        "question": "Những con chuột đã phản ứng như thế nào khi con chuột già đề xuất đeo chuông vào cổ con mèo?",
+        "split": "dev",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Not I! not I!\" said all the Mice together. And they scampered away\nto their holes.",
+            "score": 0.7831528733968682,
+            "metadata": {
+              "page": 35,
+              "source": "Fifty Famous People",
+              "chapter": "ONE OF AESOP'S FABLES",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q03",
+        "question": "Abraham Davenport đã làm gì để các nhà lập pháp tiếp tục công việc khi bầu trời đột nhiên tối đen?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "The people of Connecticut still remember Abraham Davenport, because\nhe was a wise judge and a brave lawmaker. The poet Whittier has written\na poem about him, which you will like to hear.",
+            "score": 0.6040253299470656,
+            "metadata": {
+              "page": 36,
+              "source": "Fifty Famous People",
+              "chapter": "THE DARK DAY",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q04",
+        "question": "Tại sao John Randolph cuối cùng phải mất nhiều thời gian hơn dự kiến để đến Lynchburg?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "[Illustration]",
+            "score": 0.911378649204591,
+            "metadata": {
+              "page": 37,
+              "source": "Fifty Famous People",
+              "chapter": "THE SURLY GUEST",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q05",
+        "question": "Sự kiện có thật nào đã truyền cảm hứng cho Daniel Defoe viết câu chuyện Robinson Crusoe?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "This is the story which Mr. Defoe wrote. Perhaps he would not have\nthought of it, had he not first heard the true story of Alexander\nSelkirk.",
+            "score": 0.48468533255581536,
+            "metadata": {
+              "page": 38,
+              "source": "Fifty Famous People",
+              "chapter": "THE STORY OF A GREAT STORY",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q06",
+        "question": "Vì sao vua Frederick quyết định không đánh thức Carl một cách thô bạo khi phát hiện cậu đang ngủ?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Have courage, my boy,\" said the king. \"I know how you must have been\noverwearied with long hours of watching. And people say that fortune\ncomes to us in our sleep. You may send the gold pieces to your mother\nwith my compliments; and tell her that the king will take care of both\nher and you.\"",
+            "score": 0.7581830557671078,
+            "metadata": {
+              "page": 39,
+              "source": "Fifty Famous People",
+              "chapter": "THE KING AND THE PAGE",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q07",
+        "question": "Người phụ nữ trong trang trại đã giúp Robert the Bruce như thế nào khi ông đang bị quân địch truy đuổi?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Of what other story does this remind you?",
+            "score": 0.913159001260133,
+            "metadata": {
+              "page": 40,
+              "source": "Fifty Famous People",
+              "chapter": "THE HUNTED KING",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q08",
+        "question": "John Marshall muốn truyền đạt điều gì khi tự mình mang con gà tây đến nhà cho người thanh niên Johnson?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Oh, no!\" said another man who had seen and heard it all. \"Judge\nMarshall carried the turkey simply because he wished to be kind and\nobliging. That is his way.\"",
+            "score": 0.6271866458191604,
+            "metadata": {
+              "page": 41,
+              "source": "Fifty Famous People",
+              "chapter": "WHY HE CARRIED THE TURKEY",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q09",
+        "question": "Robert Fulton và Christopher đã cải tiến chiếc thuyền đánh cá bằng cách nào để không cần dùng sào hoặc mái chèo thông thường?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "He is now remembered and honored as the inventor of the steamboat. He\nbecame famous because he was always thinking and studying and working.",
+            "score": 0.6228655046153262,
+            "metadata": {
+              "page": 42,
+              "source": "Fifty Famous People",
+              "chapter": "THE PADDLE-WHEEL BOAT",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q10",
+        "question": "Người làm vườn đã giải thích như thế nào về việc giữ lại mười đồng vàng trong chiếc túi mà ông tìm thấy?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Your debt is paid. Think no more about it,\" he said.",
+            "score": 0.8905195999248445,
+            "metadata": {
+              "page": 43,
+              "source": "Fifty Famous People",
+              "chapter": "THE CALIPH AND THE GARDENER",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q11",
+        "question": "Bài học mà Benjamin Franklin rút ra sau khi dùng toàn bộ số tiền mẹ cho để mua chiếc còi là gì?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Every boy and girl should remember the name of Benjamin Franklin. He\nwas a great thinker and a great doer, and with Washington he helped\nto make our country free. His life was such that no man could ever\nsay, \"Ben Franklin has wronged me.\"",
+            "score": 0.6059510895823208,
+            "metadata": {
+              "page": 6,
+              "source": "Fifty Famous People",
+              "chapter": "THE WHISTLE",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q12",
+        "question": "Sirrah đã làm gì để bảo vệ đàn cừu trong cơn bão khiến James Hogg tưởng rằng mình đã mất toàn bộ đàn?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Many of his poems are still read and loved by children as well as by\ngrown up men and women. Here is one:--",
+            "score": 0.9065411882982878,
+            "metadata": {
+              "page": 7,
+              "source": "Fifty Famous People",
+              "chapter": "THE ETTRICK SHEPHERD",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q13",
+        "question": "Paul Revere đã sử dụng tín hiệu đèn như thế nào để biết quân Anh sẽ đi qua con đường nào?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "At Lexington, not far from Concord, there was a sharp fight in which\nseveral men were killed. This, in history, is called the Battle of\nLexington. It was the beginning of the war called the Revolutionary\nWar. But the king's soldiers did not find the gunpowder. They were\nglad enough to march back without it. All along the road the farmers\nwere waiting for them. It seemed as if every man in the country was\nafter them. And they did not feel themselves safe until they were once\nmore in Boston.",
+            "score": 0.6735556466317614,
+            "metadata": {
+              "page": 11,
+              "source": "Fifty Famous People",
+              "chapter": "THE MIDNIGHT RIDE",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q14",
+        "question": "Vì sao người thợ rèn đồng ý đóng ít đinh hơn mức cần thiết vào móng ngựa của nhà vua?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Richard the Third was one of England's worst kings. Henry, the Duke\nof Richmond, made war upon him and defeated him in a great battle.",
+            "score": 0.8758464991165952,
+            "metadata": {
+              "page": 14,
+              "source": "Fifty Famous People",
+              "chapter": "THE HORSESHOE NAILS",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q15",
+        "question": "Điều gì khiến George Washington thay đổi quyết định lên tàu đi biển dù trước đó rất háo hức?",
+        "split": "dev",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Who has not heard of George Washington? It has been said of him that\nhe was the \"first in war, the first in peace, and first in the hearts\nof his countrymen.\" He was our most famous president. He has been\ncalled the Father of his Country.",
+            "score": 0.6973348539485972,
+            "metadata": {
+              "page": 17,
+              "source": "Fifty Famous People",
+              "chapter": "GOING TO SEA",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q16",
+        "question": "Tại sao Elihu Burritt cố tình vi phạm quy định không được nói chuyện trong lớp vào đúng thời điểm sắp tan học?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "All this happened many years ago in New Britain, Connecticut. Elihu\nBurritt was a poor boy who was determined to learn. He worked many\nyears as a blacksmith and studied books whenever he had a spare moment.\nHe learned many languages and became known all over the world as \"The\nLearned Blacksmith.\"",
+            "score": 0.5839915228144339,
+            "metadata": {
+              "page": 24,
+              "source": "Fifty Famous People",
+              "chapter": "THE WHISPERERS",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q17",
+        "question": "Vì sao Alfred là người duy nhất trong bốn anh em muốn học đọc để có được cuốn sách mà mẹ đưa ra?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "And so William Jones went on reading and learning. He became one of\nthe most famous scholars in the world. The king of England made him\na knight and called him Sir William Jones. Sir William Jones lived\nnearly two hundred years ago. He was noted for his great knowledge,\nthe most of which he had obtained from books. It is said that he could\nspeak and write forty languages.",
+            "score": 0.8170394433059229,
+            "metadata": {
+              "page": 25,
+              "source": "Fifty Famous People",
+              "chapter": "HOW A PRINCE LEARNED TO READ",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q18",
+        "question": "Theo lời dạy của vua Al Mamoun, ba nghĩa vụ mà một người trẻ tuổi không được phép bỏ qua là gì?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Then he called the two young princes to him, and as a reward for their\nnoble conduct, filled their pockets with gold.",
+            "score": 0.7872829877697513,
+            "metadata": {
+              "page": 27,
+              "source": "Fifty Famous People",
+              "chapter": "THE SONS OF THE CALIPH",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q19",
+        "question": "Điều gì trong hành động của Otanes khiến thủ lĩnh bọn cướp quyết định trả lại vàng và bảo vệ cậu trên đường đi?",
+        "split": "test",
+        "hit_1": false,
+        "hit_3": false,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "Otanes, in time, became one of the famous men of his country. He was\nthe advisor and friend of two of the kings who succeeded Cyrus.",
+            "score": 0.5852656265092733,
+            "metadata": {
+              "page": 28,
+              "source": "Fifty Famous People",
+              "chapter": "THE BOY AND THE ROBBERS",
+              "character": null
+            }
+          }
+        ]
+      },
+      {
+        "question_id": "q20",
+        "question": "Tại sao vị vua trong câu chuyện A Lesson in Justice cho rằng đất nước của Alexander không xứng đáng nhận được những phước lành từ thiên nhiên?",
+        "split": "test",
+        "hit_1": true,
+        "hit_3": true,
+        "hits": [
+          {
+            "chunk_id": "fifty_famous_BC_1",
+            "text": "\"Then,\" said the shah, \"it must be that the sun shines and the rain\nfalls for the sake of these poor beasts; for men so unjust do not\ndeserve such blessings.\"",
+            "score": 0.6490367917367772,
+            "metadata": {
+              "page": 29,
+              "source": "Fifty Famous People",
+              "chapter": "A LESSON IN JUSTICE",
+              "character": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
